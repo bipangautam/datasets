@@ -1,10 +1,12 @@
 # datasets
 Here are some dataset I have scraped from various sources, cleaned, and compiled. This is continuously updating. Please do reach out to me for any details. 
 
+**Note:** For local elections scraping admin_ref.csv and parties_ref.csv is required for harmonizing data and for the .py script to work.
+
 
 | Name                        | Dataset                      | Code / Script             | Remarks                                                                     |
 |:----------------------------|:-----------------------------|:--------------------------|:----------------------------------------------------------------------------|
-| 2074 Local Election Results | localelections2074_final.csv | election_2074_pipeline.py | Includes candidate ranking, gender/post mapping, and admin_ref integration. |
-| 2079 Local Election Results | localelection2079_final.csv  | election_2079_pipeline.py | Full scraper including English province mapping and post 9-12 exclusion.    |
-| Master Admin Reference      | admin_ref.csv                | N/A                       | The 'Rosetta Stone' mapping file linking ECN, Census, and Finance names.    |
-| Political Party Reference   | parties_ref.csv              | party_audit_script.py     | Consolidated mapping of party names across 2074 and 2079 cycles.            |
+| 2074 Local Election Results | localelections2074_final.csv | 2074final.py | Scrapes local election 2074 data from Election Commission |
+| 2079 Local Election Results | localelection2079_final.csv  | 2079final.py | Scrapes local election 2079 data from Election Commussion    |
+| Local Level Finances (OAG)    | finance_ag.csv           | (pdf scraping + manual cleaning)                      | Fiscal dataset of local levels (2018-2024) sourced from Office of Auditory General   |
+| Local Level Finance (WB)   | finance_wb.csv             | (manual download + cleaning)    |    Fiscal dataset of local levels (2018-2024) with divisions of federal + provincial transfers sourced from World Bank's Nepal Fiscal Database        |
