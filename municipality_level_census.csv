@@ -1,0 +1,754 @@
+local_unit_code,district,local_unit,mntp,ecob,total_population_2011,total_population_2021,household_2011,household_2021,male_2011,male_2021,female_2011,female_2021
+10101,Taplejung,Phaktanlung Rural Municipality,Rural Municipality,Mountain,12017.0,11791.0,2525.0,2832.0,5880.0,6088.0,6137.0,5703.0
+10102,Taplejung,Mikwakhola Rural Municipality,Rural Municipality,Mountain,9160.0,7964.0,1869.0,1845.0,4313.0,3954.0,4847.0,4010.0
+10103,Taplejung,Meringden Rural Municipality,Rural Municipality,Mountain,12548.0,11838.0,2578.0,2662.0,5809.0,5859.0,6739.0,5979.0
+10104,Taplejung,Maiwakhola Rural Municipality,Rural Municipality,Mountain,11037.0,10213.0,2194.0,2249.0,5194.0,5153.0,5843.0,5060.0
+10105,Taplejung,Aatharai Tribeni Rural Municipality,Rural Municipality,Mountain,13784.0,12296.0,2888.0,2854.0,6414.0,6066.0,7370.0,6230.0
+10106,Taplejung,Phungling Urban Municipality,Urban Municipality,Mountain,26406.0,28449.0,5986.0,6898.0,12465.0,13981.0,13941.0,14468.0
+10107,Taplejung,Pathivara Yangwarak Rural Municipality,Rural Municipality,Mountain,13591.0,11806.0,2834.0,2705.0,6295.0,5858.0,7296.0,5948.0
+10108,Taplejung,Sirijanga Rural Municipality,Rural Municipality,Mountain,15806.0,14114.0,3227.0,3255.0,7482.0,7175.0,8324.0,6939.0
+10109,Taplejung,Sidingba Rural Municipality,Rural Municipality,Mountain,12099.0,10979.0,2370.0,2476.0,5777.0,5531.0,6322.0,5448.0
+10201,Sankhuwasabha,Bhotkhola Rural Municipality,Rural Municipality,Mountain,6576.0,6438.0,1379.0,1684.0,3204.0,3200.0,3372.0,3238.0
+10202,Sankhuwasabha,Makalu Rural Municipality,Rural Municipality,Mountain,13572.0,13424.0,2922.0,3476.0,6790.0,6904.0,6782.0,6520.0
+10203,Sankhuwasabha,Silichong Rural Municipality,Rural Municipality,Mountain,11806.0,10296.0,2412.0,2490.0,5746.0,5211.0,6060.0,5085.0
+10204,Sankhuwasabha,Chichila Rural Municipality,Rural Municipality,Mountain,7065.0,6577.0,1518.0,1664.0,3410.0,3262.0,3655.0,3315.0
+10205,Sankhuwasabha,Sabhapokhari Rural Municipality,Rural Municipality,Mountain,10492.0,9970.0,2192.0,2507.0,5029.0,4978.0,5463.0,4992.0
+10206,Sankhuwasabha,Khandabari Urban Municipality,Urban Municipality,Mountain,31177.0,35565.0,7446.0,9309.0,14710.0,17356.0,16467.0,18209.0
+10207,Sankhuwasabha,Panchakhapan Urban Municipality,Urban Municipality,Mountain,17521.0,16348.0,3634.0,4000.0,8143.0,8029.0,9378.0,8319.0
+10208,Sankhuwasabha,Chainapur Urban Municipality,Urban Municipality,Mountain,27308.0,26799.0,5938.0,6648.0,12670.0,13125.0,14638.0,13674.0
+10209,Sankhuwasabha,Madi Urban Municipality,Urban Municipality,Mountain,14470.0,13273.0,3216.0,3281.0,6623.0,6488.0,7847.0,6785.0
+10210,Sankhuwasabha,Dharmadevi Urban Municipality,Urban Municipality,Mountain,18235.0,16053.0,3958.0,4059.0,8392.0,7825.0,9843.0,8228.0
+10301,Solukhumbu,Khumbu Pasanglhamu Rural Municipality,Rural Municipality,Mountain,8989.0,8720.0,2433.0,2489.0,4493.0,4391.0,4496.0,4329.0
+10302,Solukhumbu,Mahakulung Rural Municipality,Rural Municipality,Mountain,11452.0,11847.0,2450.0,2912.0,5619.0,5870.0,5833.0,5977.0
+10303,Solukhumbu,Sotang Rural Municipality,Rural Municipality,Mountain,9530.0,9025.0,2048.0,2296.0,4700.0,4544.0,4830.0,4481.0
+10304,Solukhumbu,Mapya Dudhkoshi Rural Municipality,Rural Municipality,Mountain,13414.0,12648.0,2803.0,3140.0,6529.0,6375.0,6885.0,6273.0
+10305,Solukhumbu,Thulung Dudhkoshi Rural Municipality,Rural Municipality,Mountain,19672.0,18354.0,4240.0,4624.0,9431.0,9158.0,10241.0,9196.0
+10306,Solukhumbu,Necha Salyan Rural Municipality,Rural Municipality,Mountain,16129.0,11381.0,3636.0,2783.0,7514.0,5597.0,8615.0,5784.0
+10307,Solukhumbu,Solu Dhudhakunda Urban Municipality,Urban Municipality,Mountain,20399.0,25678.0,4980.0,6744.0,9627.0,12672.0,10772.0,13006.0
+10308,Solukhumbu,Likhu Pike Rural Municipality,Rural Municipality,Mountain,5534.0,5334.0,1168.0,1251.0,2658.0,2673.0,2876.0,2661.0
+10401,Okhaldhunga,Chishankhu Gadhi Rural Municipality,Rural Municipality,Hill,15196.0,13844.0,3334.0,3305.0,6968.0,6784.0,8228.0,7060.0
+10402,Okhaldhunga,Siddhicharan Urban Municipality,Urban Municipality,Hill,27995.0,27351.0,6994.0,7126.0,12625.0,13097.0,15370.0,14254.0
+10403,Okhaldhunga,Molung Rural Municipality,Rural Municipality,Hill,16241.0,16440.0,3669.0,4069.0,7529.0,8027.0,8712.0,8413.0
+10404,Okhaldhunga,Khiji Demba Rural Municipality,Rural Municipality,Hill,15106.0,15559.0,3111.0,3438.0,7273.0,7831.0,7833.0,7728.0
+10405,Okhaldhunga,Likhu Rural Municipality,Rural Municipality,Hill,14049.0,12104.0,2957.0,3161.0,6522.0,5918.0,7527.0,6186.0
+10406,Okhaldhunga,Champadevi Rural Municipality,Rural Municipality,Hill,18613.0,16311.0,3796.0,4034.0,8521.0,7858.0,10092.0,8453.0
+10407,Okhaldhunga,Sunkoshi Rural Municipality,Rural Municipality,Hill,18550.0,17783.0,3987.0,4368.0,8541.0,8673.0,10009.0,9110.0
+10408,Okhaldhunga,Manebhanjyang Rural Municipality,Rural Municipality,Hill,21074.0,19597.0,4618.0,4785.0,9598.0,9380.0,11476.0,10217.0
+10501,Khotang,Kepilasgadhi Rural Municipality,Rural Municipality,Hill,15288.0,13231.0,3347.0,3318.0,7323.0,6535.0,7965.0,6696.0
+10502,Khotang,Aiselukharka Rural Municipality,Rural Municipality,Hill,16097.0,13217.0,3491.0,3355.0,7456.0,6556.0,8641.0,6661.0
+10503,Khotang,Rawa Besi Rural Municipality,Rural Municipality,Hill,13369.0,11199.0,2793.0,2715.0,6178.0,5388.0,7191.0,5811.0
+10504,Khotang,Halesi Tuwachung Urban Municipality,Urban Municipality,Hill,29532.0,27078.0,5838.0,6035.0,13993.0,13358.0,15539.0,13720.0
+10505,Khotang,Diktel Rupakot Majhuwagadhi Urban Municipality,Urban Municipality,Hill,46903.0,43008.0,10050.0,10767.0,21599.0,20823.0,25304.0,22185.0
+10506,Khotang,Sakela Rural Municipality,Rural Municipality,Hill,11594.0,9623.0,2408.0,2299.0,5463.0,4825.0,6131.0,4798.0
+10507,Khotang,Diprung Chuichumma Rural Municipality,Rural Municipality,Hill,20175.0,16305.0,4140.0,3801.0,9357.0,8043.0,10818.0,8262.0
+10508,Khotang,Khotehang Rural Municipality,Rural Municipality,Hill,22474.0,16846.0,4703.0,4115.0,10449.0,8260.0,12025.0,8586.0
+10509,Khotang,Jante Dhunga Rural Municipality,Rural Municipality,Hill,15444.0,12016.0,3175.0,2747.0,7420.0,5910.0,8024.0,6106.0
+10510,Khotang,Baraha Pokhari Rural Municipality,Rural Municipality,Hill,14349.0,11397.0,2702.0,2568.0,6831.0,5670.0,7518.0,5727.0
+10601,Bhojpur,Shadananda Urban Municipality,Urban Municipality,Hill,31606.0,29342.0,6832.0,7311.0,14925.0,14558.0,16681.0,14784.0
+10602,Bhojpur,Salpa Silichho Rural Municipality,Rural Municipality,Hill,13111.0,12284.0,2728.0,2998.0,6265.0,6108.0,6846.0,6176.0
+10603,Bhojpur,Temkemaiyum Rural Municipality,Rural Municipality,Hill,18211.0,15464.0,4061.0,3854.0,8483.0,7625.0,9728.0,7839.0
+10604,Bhojpur,Bhojpur Urban Municipality,Urban Municipality,Hill,27204.0,26007.0,6438.0,6744.0,12684.0,12645.0,14520.0,13362.0
+10605,Bhojpur,Arun Rural Municipality,Rural Municipality,Hill,17687.0,14591.0,3782.0,3538.0,8127.0,7135.0,9560.0,7456.0
+10606,Bhojpur,Pauwa Dunma Rural Municipality,Rural Municipality,Hill,15394.0,12107.0,3280.0,2913.0,7118.0,5843.0,8276.0,6264.0
+10607,Bhojpur,Ramprasad Rai Rural Municipality,Rural Municipality,Hill,18888.0,15673.0,4016.0,3709.0,8777.0,7734.0,10111.0,7939.0
+10608,Bhojpur,Hatuwagadhi Rural Municipality,Rural Municipality,Hill,20404.0,16175.0,4579.0,4034.0,9482.0,7974.0,10922.0,8201.0
+10609,Bhojpur,Aamchowk Rural Municipality,Rural Municipality,Hill,18720.0,14968.0,3677.0,3479.0,9008.0,7404.0,9712.0,7564.0
+10701,Dhankuta,Mahalaxmi Urban Municipality,Urban Municipality,Hill,24800.0,22182.0,5482.0,5412.0,11337.0,10859.0,13463.0,11323.0
+10702,Dhankuta,Pakhribas Urban Municipality,Urban Municipality,Hill,22078.0,19104.0,4977.0,4844.0,10054.0,9204.0,12024.0,9900.0
+10703,Dhankuta,Chhathar Jorpati Rural Municipality,Rural Municipality,Hill,18322.0,16456.0,4232.0,4148.0,8346.0,7946.0,9976.0,8510.0
+10704,Dhankuta,Dhankuta Urban Municipality,Urban Municipality,Hill,36619.0,35983.0,9460.0,9637.0,17167.0,17192.0,19452.0,18791.0
+10705,Dhankuta,Shahidbhumi Rural Municipality,Rural Municipality,Hill,18760.0,17767.0,3876.0,4090.0,8931.0,8777.0,9829.0,8990.0
+10706,Dhankuta,Sangurigadhi Rural Municipality,Rural Municipality,Hill,21536.0,19561.0,5047.0,5005.0,10089.0,9591.0,11447.0,9970.0
+10707,Dhankuta,Chaubise Rural Municipality,Rural Municipality,Hill,19283.0,17677.0,4542.0,4480.0,8723.0,8578.0,10560.0,9099.0
+10801,Terhathum,Aatharai Rural Municipality,Rural Municipality,Hill,21747.0,18156.0,4578.0,4373.0,10132.0,8956.0,11615.0,9200.0
+10802,Terhathum,Phedap Rural Municipality,Rural Municipality,Hill,17700.0,15169.0,3804.0,3662.0,8121.0,7481.0,9579.0,7688.0
+10803,Terhathum,Menchhayayem Rural Municipality,Rural Municipality,Hill,8078.0,6678.0,1794.0,1703.0,3683.0,3253.0,4395.0,3425.0
+10804,Terhathum,Myanglung Urban Municipality,Urban Municipality,Hill,19659.0,18750.0,4595.0,4872.0,9109.0,9114.0,10550.0,9636.0
+10805,Terhathum,Laligurans Urban Municipality,Urban Municipality,Hill,16934.0,15329.0,3677.0,3759.0,7728.0,7413.0,9206.0,7916.0
+10806,Terhathum,Chhathar Rural Municipality,Rural Municipality,Hill,16715.0,14197.0,3636.0,3476.0,7679.0,6931.0,9036.0,7266.0
+10901,Panchthar,Yangbarak Rural Municipality,Rural Municipality,Hill,18281.0,16821.0,3811.0,3956.0,8701.0,8514.0,9580.0,8307.0
+10902,Panchthar,Hilihan Rural Municipality,Rural Municipality,Hill,22913.0,19085.0,4792.0,4588.0,10646.0,9386.0,12267.0,9699.0
+10903,Panchthar,Falelung Rural Municipality,Rural Municipality,Hill,21884.0,20361.0,4552.0,4915.0,10320.0,10119.0,11564.0,10242.0
+10904,Panchthar,Phidim Urban Municipality,Urban Municipality,Hill,49201.0,48495.0,10994.0,12336.0,23167.0,23679.0,26034.0,24816.0
+10905,Panchthar,Falgunanda Rural Municipality,Rural Municipality,Hill,24060.0,21289.0,5162.0,5278.0,11108.0,10407.0,12952.0,10882.0
+10906,Panchthar,Kummayak Rural Municipality,Rural Municipality,Hill,16118.0,12746.0,3500.0,3158.0,7401.0,6290.0,8717.0,6456.0
+10907,Panchthar,Tumbewa Rural Municipality,Rural Municipality,Hill,13419.0,11189.0,2815.0,2747.0,6265.0,5577.0,7154.0,5612.0
+10908,Panchthar,Miklajung Rural Municipality,Rural Municipality,Hill,24615.0,21061.0,5550.0,5459.0,11302.0,10454.0,13313.0,10607.0
+11001,Ilam,Mai Jogmai Rural Municipality,Rural Municipality,Hill,21044.0,19131.0,4677.0,4942.0,10377.0,9713.0,10667.0,9418.0
+11002,Ilam,Sandakpur Rural Municipality,Rural Municipality,Hill,16065.0,15444.0,3643.0,4013.0,7790.0,7857.0,8275.0,7587.0
+11003,Ilam,Illam Urban Municipality,Urban Municipality,Hill,48536.0,50085.0,11383.0,12952.0,23461.0,24411.0,25075.0,25674.0
+11004,Ilam,Deumai Urban Municipality,Urban Municipality,Hill,32927.0,30969.0,7123.0,7686.0,15841.0,15348.0,17086.0,15621.0
+11005,Ilam,Fakfokathum Rural Municipality,Rural Municipality,Hill,21619.0,19706.0,4634.0,4898.0,10112.0,9801.0,11507.0,9905.0
+11006,Ilam,Mangsebung Rural Municipality,Rural Municipality,Hill,18503.0,16810.0,3729.0,3889.0,9049.0,8477.0,9454.0,8333.0
+11007,Ilam,Chulachuli Rural Municipality,Rural Municipality,Hill,20820.0,23157.0,4649.0,5613.0,9652.0,11334.0,11168.0,11823.0
+11008,Ilam,Mai Urban Municipality,Urban Municipality,Hill,32576.0,30732.0,7077.0,7939.0,15551.0,15130.0,17025.0,15602.0
+11009,Ilam,Suryodaya Urban Municipality,Urban Municipality,Hill,56707.0,54727.0,13211.0,14032.0,27867.0,27382.0,28840.0,27345.0
+11010,Ilam,Rong Rural Municipality,Rural Municipality,Hill,19135.0,17367.0,4351.0,4537.0,9389.0,8690.0,9746.0,8677.0
+11101,Jhapa,Mechinagar Urban Municipality,Urban Municipality,Tarai,111737.0,133073.0,25531.0,32695.0,52996.0,64001.0,58741.0,69072.0
+11102,Jhapa,Buddhashanti Rural Municipality,Rural Municipality,Tarai,41585.0,53010.0,9498.0,13285.0,19642.0,25260.0,21943.0,27750.0
+11103,Jhapa,Arjundhara Urban Municipality,Urban Municipality,Tarai,60205.0,84018.0,13623.0,20935.0,28425.0,40180.0,31780.0,43838.0
+11104,Jhapa,Kankai Urban Municipality,Urban Municipality,Tarai,40141.0,53148.0,9426.0,13169.0,18536.0,25190.0,21605.0,27958.0
+11105,Jhapa,Shivasatakshi Urban Municipality,Urban Municipality,Tarai,64596.0,74077.0,14695.0,18253.0,29715.0,34955.0,34881.0,39122.0
+11106,Jhapa,Kamal Rural Municipality,Rural Municipality,Tarai,44365.0,53894.0,10256.0,13165.0,20296.0,25426.0,24069.0,28468.0
+11107,Jhapa,Damak Urban Municipality,Urban Municipality,Tarai,75102.0,107227.0,18104.0,27569.0,35438.0,50819.0,39664.0,56408.0
+11108,Jhapa,Gauradaha Urban Municipality,Urban Municipality,Tarai,53033.0,60451.0,12070.0,14846.0,24936.0,28695.0,28097.0,31756.0
+11109,Jhapa,Gauriganj Rural Municipality,Rural Municipality,Tarai,33034.0,35506.0,7140.0,8547.0,15938.0,16907.0,17096.0,18599.0
+11110,Jhapa,Jhapa Rural Municipality,Rural Municipality,Tarai,34601.0,39302.0,7098.0,8515.0,16703.0,18954.0,17898.0,20348.0
+11111,Jhapa,Barhadashi Rural Municipality,Rural Municipality,Tarai,33653.0,37946.0,7398.0,9035.0,15710.0,18038.0,17943.0,19908.0
+11112,Jhapa,Birtamod Urban Municipality,Urban Municipality,Tarai,81878.0,116192.0,19118.0,29852.0,39748.0,56105.0,42130.0,60087.0
+11113,Jhapa,Haldibari Rural Municipality,Rural Municipality,Tarai,28933.0,32722.0,6415.0,7878.0,13320.0,15611.0,15613.0,17111.0
+11114,Jhapa,Bhadrapur Urban Municipality,Urban Municipality,Tarai,65533.0,70913.0,15270.0,17329.0,30958.0,33890.0,34575.0,37023.0
+11115,Jhapa,Kachanakawal Rural Municipality,Rural Municipality,Tarai,39538.0,41317.0,8742.0,9946.0,18707.0,19557.0,20831.0,21760.0
+11201,Morang,Miklajung Rural Municipality,Rural Municipality,Tarai,28708.0,33167.0,6417.0,8309.0,13158.0,15888.0,15550.0,17279.0
+11202,Morang,Letang Urban Municipality,Urban Municipality,Tarai,32053.0,38152.0,7339.0,9357.0,14350.0,18038.0,17703.0,20114.0
+11203,Morang,Kerabari Rural Municipality,Rural Municipality,Tarai,30431.0,34504.0,6991.0,8573.0,13811.0,16415.0,16620.0,18089.0
+11204,Morang,Sundarharaicha Urban Municipality,Urban Municipality,Tarai,80518.0,120213.0,18610.0,29826.0,37694.0,57018.0,42824.0,63195.0
+11205,Morang,Belbari Urban Municipality,Urban Municipality,Tarai,65892.0,81771.0,15338.0,20459.0,30111.0,38297.0,35781.0,43474.0
+11206,Morang,Kanepokhari Rural Municipality,Rural Municipality,Tarai,38033.0,43193.0,8683.0,10663.0,17487.0,20405.0,20546.0,22788.0
+11207,Morang,Pathari Shanishchare Urban Municipality,Urban Municipality,Tarai,61132.0,72451.0,13956.0,17980.0,27756.0,33984.0,33376.0,38467.0
+11208,Morang,Urlabari Urban Municipality,Urban Municipality,Tarai,54696.0,70908.0,12530.0,17650.0,25148.0,33356.0,29548.0,37552.0
+11209,Morang,Ratuwamai Urban Municipality,Urban Municipality,Tarai,55380.0,61139.0,12482.0,14508.0,26335.0,28999.0,29045.0,32140.0
+11210,Morang,Sunwarshi Urban Municipality,Urban Municipality,Tarai,50758.0,56034.0,10795.0,12684.0,24957.0,26995.0,25801.0,29039.0
+11211,Morang,Rangeli Urban Municipality,Urban Municipality,Tarai,52013.0,57494.0,11249.0,13206.0,25081.0,27974.0,26932.0,29520.0
+11212,Morang,Gramthan Rural Municipality,Rural Municipality,Tarai,32717.0,36024.0,7920.0,9377.0,15685.0,17497.0,17032.0,18527.0
+11213,Morang,Budhiganga Rural Municipality,Rural Municipality,Tarai,41586.0,51497.0,9621.0,12360.0,20717.0,25307.0,20869.0,26190.0
+11214,Morang,Biratnagar Metropolitan City,Metropolitan,Tarai,214663.0,243927.0,47798.0,56919.0,108827.0,121954.0,105836.0,121973.0
+11215,Morang,Katahari Rural Municipality,Rural Municipality,Tarai,39775.0,48510.0,8009.0,10495.0,20199.0,24342.0,19576.0,24168.0
+11216,Morang,Dhanapalthan Rural Municipality,Rural Municipality,Tarai,39394.0,45348.0,7957.0,9925.0,19459.0,22196.0,19935.0,23152.0
+11217,Morang,Jahada Rural Municipality,Rural Municipality,Tarai,41819.0,47639.0,8175.0,9869.0,21118.0,24035.0,20701.0,23604.0
+11301,Sunsari,Dharan Sub-Metropolitan City,Sub-Metropolitan,Tarai,137705.0,166531.0,32693.0,42396.0,64671.0,78410.0,73034.0,88121.0
+11302,Sunsari,Barahachhetra Urban Municipality,Urban Municipality,Tarai,77407.0,91087.0,17552.0,21827.0,35561.0,42997.0,41846.0,48090.0
+11303,Sunsari,Koshi Rural Municipality,Rural Municipality,Tarai,43626.0,48804.0,8543.0,9169.0,21954.0,24358.0,21672.0,24446.0
+11304,Sunsari,Bhokraha Narsingh Rural Municipality,Rural Municipality,Tarai,40509.0,49280.0,6798.0,8932.0,19854.0,24293.0,20655.0,24987.0
+11305,Sunsari,Ramdhuni Urban Municipality,Urban Municipality,Tarai,51722.0,63452.0,11491.0,15644.0,23984.0,29820.0,27738.0,33632.0
+11306,Sunsari,Itahari Sub-Metropolitan City,Sub-Metropolitan,Tarai,140517.0,197241.0,33794.0,50350.0,66566.0,93290.0,73951.0,103951.0
+11307,Sunsari,Duhabi Urban Municipality,Urban Municipality,Tarai,56216.0,66074.0,11893.0,15030.0,28107.0,32797.0,28109.0,33277.0
+11308,Sunsari,Gadhi Rural Municipality,Rural Municipality,Tarai,34852.0,38739.0,7039.0,8565.0,16931.0,19096.0,17921.0,19643.0
+11309,Sunsari,Inaruwa Urban Municipality,Urban Municipality,Tarai,63593.0,74914.0,13020.0,16029.0,31195.0,36689.0,32398.0,38225.0
+11310,Sunsari,Harinagar Rural Municipality,Rural Municipality,Tarai,40846.0,49845.0,6842.0,8738.0,20139.0,24567.0,20707.0,25278.0
+11311,Sunsari,Dewangunj Rural Municipality,Rural Municipality,Tarai,35073.0,39030.0,6361.0,7805.0,17863.0,19488.0,17210.0,19542.0
+11312,Sunsari,Barju Rural Municipality,Rural Municipality,Tarai,31178.0,36249.0,6253.0,7922.0,15726.0,18169.0,15452.0,18080.0
+11401,Udayapur,Belaka Urban Municipality,Urban Municipality,Hill,42386.0,51043.0,8930.0,12158.0,19605.0,24400.0,22781.0,26643.0
+11402,Udayapur,Chaudandigadhi Urban Municipality,Urban Municipality,Hill,48574.0,53631.0,10519.0,12703.0,22082.0,25157.0,26492.0,28474.0
+11403,Udayapur,Triyuga Urban Municipality,Urban Municipality,Hill,87557.0,102725.0,19484.0,25623.0,41221.0,48463.0,46336.0,54262.0
+11404,Udayapur,Rautamai Rural Municipality,Rural Municipality,Hill,23481.0,20324.0,4666.0,4572.0,11179.0,9973.0,12302.0,10351.0
+11405,Udayapur,Limchungbung Rural Municipality,Rural Municipality,Hill,11992.0,9689.0,2316.0,2227.0,5662.0,4790.0,6330.0,4899.0
+11406,Udayapur,Tapli Rural Municipality,Rural Municipality,Hill,14562.0,13344.0,2703.0,2862.0,6929.0,6608.0,7633.0,6736.0
+11407,Udayapur,Katari Urban Municipality,Urban Municipality,Hill,56146.0,59507.0,11717.0,14106.0,26582.0,28868.0,29564.0,30639.0
+11408,Udayapur,Udayapurgadhi Rural Municipality,Rural Municipality,Hill,30731.0,28926.0,6179.0,6800.0,14501.0,14097.0,16230.0,14829.0
+20101,Saptari,Saptakoshi Urban Municipality,Urban Municipality,Tarai,21131.0,23510.0,4539.0,5218.0,10018.0,11398.0,11113.0,12112.0
+20102,Saptari,Kanchanrup Urban Municipality,Urban Municipality,Tarai,53288.0,58466.0,10192.0,12535.0,25953.0,28639.0,27335.0,29827.0
+20103,Saptari,Agnisair Krishna Sabaran Rural Municipality,Rural Municipality,Tarai,27129.0,31634.0,5422.0,6581.0,12846.0,15410.0,14283.0,16224.0
+20104,Saptari,Rupani Rural Municipality,Rural Municipality,Tarai,26387.0,29877.0,5012.0,6324.0,12824.0,14721.0,13563.0,15156.0
+20105,Saptari,Shambhunath Urban Municipality,Urban Municipality,Tarai,35213.0,39634.0,6764.0,8679.0,16776.0,19006.0,18437.0,20628.0
+20106,Saptari,Khadak Urban Municipality,Urban Municipality,Tarai,45368.0,52778.0,8615.0,11069.0,21308.0,25480.0,24060.0,27298.0
+20107,Saptari,Surunga Urban Municipality,Urban Municipality,Tarai,44222.0,49460.0,8650.0,10487.0,20787.0,23715.0,23435.0,25745.0
+20108,Saptari,Balan-Bihul Rural Municipality,Rural Municipality,Tarai,21819.0,23527.0,3976.0,4948.0,10796.0,11823.0,11023.0,11704.0
+20109,Saptari,Bode Barsain Urban Municipality,Urban Municipality,Tarai,43229.0,46017.0,8022.0,9722.0,21319.0,22918.0,21910.0,23099.0
+20110,Saptari,Dakneshwori Urban Municipality,Urban Municipality,Tarai,42754.0,47739.0,8149.0,10002.0,20687.0,23690.0,22067.0,24049.0
+20111,Saptari,Rajgadh Rural Municipality,Rural Municipality,Tarai,29459.0,32462.0,5242.0,6675.0,14487.0,16117.0,14972.0,16345.0
+20112,Saptari,Bishnupur Rural Municipality,Rural Municipality,Tarai,23038.0,27703.0,4370.0,5465.0,11438.0,14099.0,11600.0,13604.0
+20113,Saptari,Rajbiraj Urban Municipality,Urban Municipality,Tarai,68396.0,70803.0,13350.0,14133.0,35092.0,36284.0,33304.0,34519.0
+20114,Saptari,Mahadewa Rural Municipality,Rural Municipality,Tarai,28542.0,30315.0,5395.0,6279.0,14215.0,15225.0,14327.0,15090.0
+20115,Saptari,Tirahut Rural Municipality,Rural Municipality,Tarai,22010.0,24034.0,4078.0,5116.0,10913.0,12056.0,11097.0,11978.0
+20116,Saptari,Hanumannagar Kankalini Urban Municipality,Urban Municipality,Tarai,45734.0,52796.0,8152.0,10645.0,22725.0,26765.0,23009.0,26031.0
+20117,Saptari,Tilathi Koiladi Rural Municipality,Rural Municipality,Tarai,31735.0,33658.0,5697.0,6768.0,16184.0,17131.0,15551.0,16527.0
+20118,Saptari,Chhinnamasta Rural Municipality,Rural Municipality,Tarai,28390.0,29946.0,5439.0,6170.0,14199.0,15100.0,14191.0,14846.0
+20201,Siraha,Lahan Urban Municipality,Urban Municipality,Tarai,91766.0,102031.0,17182.0,20577.0,45515.0,50567.0,46251.0,51464.0
+20202,Siraha,Dhangadhimai Urban Municipality,Urban Municipality,Tarai,47449.0,53355.0,8757.0,10842.0,23430.0,26038.0,24019.0,27317.0
+20203,Siraha,Golbazar Urban Municipality,Urban Municipality,Tarai,52137.0,63885.0,10110.0,13133.0,25394.0,31611.0,26743.0,32274.0
+20204,Siraha,Mirchaiya Urban Municipality,Urban Municipality,Tarai,48911.0,59425.0,9333.0,12250.0,24047.0,29571.0,24864.0,29854.0
+20205,Siraha,Karjanha Urban Municipality,Urban Municipality,Tarai,30967.0,38557.0,6088.0,8289.0,14770.0,18649.0,16197.0,19908.0
+20206,Siraha,Kalyanpur Urban Municipality,Urban Municipality,Tarai,49290.0,58872.0,9391.0,11835.0,23047.0,28198.0,26243.0,30674.0
+20207,Siraha,Naraha Rural Municipality,Rural Municipality,Tarai,19369.0,22760.0,3673.0,4373.0,9303.0,11264.0,10066.0,11496.0
+20208,Siraha,Bishnupur Rural Municipality,Rural Municipality,Tarai,18522.0,22781.0,3469.0,4566.0,8862.0,11321.0,9660.0,11460.0
+20209,Siraha,Arnama Rural Municipality,Rural Municipality,Tarai,22912.0,27899.0,4047.0,5179.0,10940.0,13592.0,11972.0,14307.0
+20210,Siraha,Sukhipur Urban Municipality,Urban Municipality,Tarai,36883.0,42033.0,6734.0,8321.0,17880.0,20777.0,19003.0,21256.0
+20211,Siraha,Laxmipur Patari Rural Municipality,Rural Municipality,Tarai,28054.0,31118.0,4830.0,6044.0,13528.0,15068.0,14526.0,16050.0
+20212,Siraha,Sakhuwa Nankarkatti Rural Municipality,Rural Municipality,Tarai,18558.0,20844.0,3388.0,4236.0,8862.0,10206.0,9696.0,10638.0
+20213,Siraha,Bhagawanpur Rural Municipality,Rural Municipality,Tarai,20957.0,23380.0,3661.0,4606.0,10291.0,11481.0,10666.0,11899.0
+20214,Siraha,Nawarajpur Rural Municipality,Rural Municipality,Tarai,19019.0,20788.0,3280.0,4226.0,9315.0,10189.0,9704.0,10599.0
+20215,Siraha,Bariyarpatti Rural Municipality,Rural Municipality,Tarai,25256.0,29712.0,4264.0,5686.0,12505.0,14716.0,12751.0,14996.0
+20216,Siraha,Aurahi Rural Municipality,Rural Municipality,Tarai,23046.0,26478.0,4245.0,5469.0,11116.0,13166.0,11930.0,13312.0
+20217,Siraha,Siraha Urban Municipality,Urban Municipality,Tarai,82531.0,95410.0,15477.0,18917.0,39706.0,46753.0,42825.0,48657.0
+20301,Dhanusa,Ganeshman Charnath Urban Municipality,Urban Municipality,Tarai,36338.0,44082.0,7037.0,9167.0,17656.0,21425.0,18682.0,22657.0
+20302,Dhanusa,Dhanushadham Urban Municipality,Urban Municipality,Tarai,45585.0,52024.0,8715.0,10588.0,22082.0,25185.0,23503.0,26839.0
+20303,Dhanusa,Mithila Urban Municipality,Urban Municipality,Tarai,45164.0,48676.0,8229.0,10656.0,22978.0,24314.0,22186.0,24362.0
+20304,Dhanusa,Bateshwor Rural Municipality,Rural Municipality,Tarai,21530.0,21742.0,3671.0,4647.0,11149.0,10708.0,10381.0,11034.0
+20305,Dhanusa,Chhireshwornath Urban Municipality,Urban Municipality,Tarai,41793.0,51075.0,7775.0,10733.0,21141.0,25576.0,20652.0,25499.0
+20306,Dhanusa,Laxminiya Rural Municipality,Rural Municipality,Tarai,28251.0,31881.0,4995.0,6301.0,14420.0,15847.0,13831.0,16034.0
+20307,Dhanusa,Mithila Bihari Urban Municipality,Urban Municipality,Tarai,33556.0,38273.0,6066.0,7654.0,16734.0,18916.0,16822.0,19357.0
+20308,Dhanusa,Hansapur Urban Municipality,Urban Municipality,Tarai,38216.0,44949.0,6912.0,8890.0,18402.0,21834.0,19814.0,23115.0
+20309,Dhanusa,Sabaila Urban Municipality,Urban Municipality,Tarai,52389.0,62282.0,10073.0,12340.0,25090.0,30094.0,27299.0,32188.0
+20310,Dhanusa,Shahidnagar Urban Municipality,Urban Municipality,Tarai,47422.0,53812.0,8671.0,11124.0,23148.0,26208.0,24274.0,27604.0
+20311,Dhanusa,Kamala Urban Municipality,Urban Municipality,Tarai,38624.0,44597.0,6999.0,8979.0,18731.0,21559.0,19893.0,23038.0
+20312,Dhanusa,Janak Nandini Rural Municipality,Rural Municipality,Tarai,25338.0,27146.0,4461.0,5379.0,12309.0,12963.0,13029.0,14183.0
+20313,Dhanusa,Bideha Urban Municipality,Urban Municipality,Tarai,32266.0,37697.0,5817.0,7671.0,16013.0,18154.0,16253.0,19543.0
+20314,Dhanusa,Aurahi Rural Municipality,Rural Municipality,Tarai,22578.0,24053.0,4003.0,4793.0,11331.0,11689.0,11247.0,12364.0
+20315,Dhanusa,Janakpurdham Sub-Metropolitan City,Sub-Metropolitan,Tarai,162172.0,194556.0,30589.0,40409.0,84276.0,99764.0,77896.0,94792.0
+20316,Dhanusa,Dhanauji Rural Municipality,Rural Municipality,Tarai,21395.0,21942.0,3717.0,4408.0,10894.0,10556.0,10501.0,11386.0
+20317,Dhanusa,Nagarain Urban Municipality,Urban Municipality,Tarai,35583.0,38037.0,6365.0,7921.0,17850.0,18601.0,17733.0,19436.0
+20318,Dhanusa,Mukhiyapatti Musaharmiya Rural Municipality,Rural Municipality,Tarai,25482.0,28208.0,4130.0,5431.0,13266.0,14169.0,12216.0,14039.0
+20401,Mahottari,Bardibas Urban Municipality,Urban Municipality,Tarai,64212.0,74361.0,13113.0,16824.0,31349.0,36711.0,32863.0,37650.0
+20402,Mahottari,Gaushala Urban Municipality,Urban Municipality,Tarai,66677.0,72481.0,11893.0,14446.0,33751.0,36250.0,32926.0,36231.0
+20403,Mahottari,Sonama Rural Municipality,Rural Municipality,Tarai,38747.0,43082.0,6341.0,7602.0,19637.0,21922.0,19110.0,21160.0
+20404,Mahottari,Aurahi Urban Municipality,Urban Municipality,Tarai,31851.0,37361.0,5822.0,7042.0,15781.0,18711.0,16070.0,18650.0
+20405,Mahottari,Bhangaha Urban Municipality,Urban Municipality,Tarai,46757.0,55354.0,8560.0,10915.0,21990.0,26734.0,24767.0,28620.0
+20406,Mahottari,Loharpatti Urban Municipality,Urban Municipality,Tarai,39883.0,45773.0,7317.0,9133.0,18949.0,21946.0,20934.0,23827.0
+20407,Mahottari,Balawa Urban Municipality,Urban Municipality,Tarai,42341.0,49473.0,7661.0,9437.0,20632.0,24277.0,21709.0,25196.0
+20408,Mahottari,Ram Gopalpur Urban Municipality,Urban Municipality,Tarai,30412.0,36201.0,5257.0,6606.0,14767.0,18091.0,15645.0,18110.0
+20409,Mahottari,Samsi Rural Municipality,Rural Municipality,Tarai,33791.0,38585.0,5382.0,6815.0,16739.0,18712.0,17052.0,19873.0
+20410,Mahottari,Manara Shisawa Urban Municipality,Urban Municipality,Tarai,49692.0,52191.0,8532.0,10050.0,24856.0,25679.0,24836.0,26512.0
+20411,Mahottari,Ekadara Rural Municipality,Rural Municipality,Tarai,29315.0,31770.0,4809.0,5938.0,14831.0,15910.0,14484.0,15860.0
+20412,Mahottari,Mahottari Rural Municipality,Rural Municipality,Tarai,27430.0,28807.0,4861.0,5687.0,13814.0,14012.0,13616.0,14795.0
+20413,Mahottari,Pipara Rural Municipality,Rural Municipality,Tarai,35524.0,40535.0,6490.0,8302.0,17725.0,20293.0,17799.0,20242.0
+20414,Mahottari,Matihani Urban Municipality,Urban Municipality,Tarai,31026.0,36136.0,5226.0,6709.0,15215.0,17552.0,15811.0,18584.0
+20415,Mahottari,Jaleshwor Urban Municipality,Urban Municipality,Tarai,57549.0,63802.0,10034.0,12380.0,28696.0,31391.0,28853.0,32411.0
+20501,Sarlahi,Lalbandi Urban Municipality,Urban Municipality,Tarai,59395.0,66419.0,12238.0,14873.0,28795.0,32883.0,30600.0,33536.0
+20502,Sarlahi,Hariwan Urban Municipality,Urban Municipality,Tarai,43924.0,49988.0,8601.0,10740.0,21395.0,24405.0,22529.0,25583.0
+20503,Sarlahi,Bagmati Urban Municipality,Urban Municipality,Tarai,40399.0,47106.0,7984.0,10768.0,19593.0,23015.0,20806.0,24091.0
+20504,Sarlahi,Barahathawa Urban Municipality,Urban Municipality,Tarai,69822.0,81120.0,11853.0,15343.0,35206.0,40915.0,34616.0,40205.0
+20505,Sarlahi,Haripur Urban Municipality,Urban Municipality,Tarai,37351.0,43233.0,6517.0,8350.0,18567.0,21141.0,18784.0,22092.0
+20506,Sarlahi,Ishworpur Urban Municipality,Urban Municipality,Tarai,59986.0,68377.0,11073.0,13521.0,29643.0,33808.0,30343.0,34569.0
+20507,Sarlahi,Haripurwa Urban Municipality,Urban Municipality,Tarai,36042.0,38714.0,5904.0,7140.0,18577.0,19557.0,17465.0,19157.0
+20508,Sarlahi,Parsa Rural Municipality,Rural Municipality,Tarai,21650.0,24005.0,3342.0,4487.0,11227.0,12157.0,10423.0,11848.0
+20509,Sarlahi,Brahmapuri Rural Municipality,Rural Municipality,Tarai,29832.0,31378.0,4735.0,5939.0,15281.0,15569.0,14551.0,15809.0
+20510,Sarlahi,Chandranagar Rural Municipality,Rural Municipality,Tarai,33328.0,36908.0,5540.0,6713.0,16994.0,18705.0,16334.0,18203.0
+20511,Sarlahi,Kabilashi Urban Municipality,Urban Municipality,Tarai,42336.0,44204.0,6871.0,8130.0,21791.0,22452.0,20545.0,21752.0
+20512,Sarlahi,Chakraghatta Rural Municipality,Rural Municipality,Tarai,27952.0,29550.0,4409.0,5039.0,14306.0,15085.0,13646.0,14465.0
+20513,Sarlahi,Basbariya Rural Municipality,Rural Municipality,Tarai,23568.0,25905.0,3699.0,4586.0,12193.0,13237.0,11375.0,12668.0
+20514,Sarlahi,Dhanakaul Rural Municipality,Rural Municipality,Tarai,24788.0,27974.0,3964.0,5112.0,12672.0,14410.0,12116.0,13564.0
+20515,Sarlahi,Ramnagar Rural Municipality,Rural Municipality,Tarai,28727.0,31366.0,4485.0,5377.0,14922.0,16250.0,13805.0,15116.0
+20516,Sarlahi,Balara Urban Municipality,Urban Municipality,Tarai,45194.0,47912.0,7693.0,8622.0,23647.0,24771.0,21547.0,23141.0
+20517,Sarlahi,Godaita Urban Municipality,Urban Municipality,Tarai,47687.0,54270.0,7902.0,9303.0,24548.0,27703.0,23139.0,26567.0
+20518,Sarlahi,Bishnu Rural Municipality,Rural Municipality,Tarai,24748.0,28570.0,4008.0,5272.0,12861.0,14778.0,11887.0,13792.0
+20519,Sarlahi,Kaudena Rural Municipality,Rural Municipality,Tarai,26085.0,28702.0,4073.0,5476.0,13387.0,14438.0,12698.0,14264.0
+20520,Sarlahi,Malangawa Urban Municipality,Urban Municipality,Tarai,46516.0,54550.0,7912.0,10033.0,23821.0,27849.0,22695.0,26701.0
+20601,Rautahat,Chandrapur Urban Municipality,Urban Municipality,Tarai,72059.0,81807.0,13445.0,16820.0,35858.0,40304.0,36201.0,41503.0
+20602,Rautahat,Gujara Urban Municipality,Urban Municipality,Tarai,46592.0,54033.0,7391.0,9575.0,23380.0,26396.0,23212.0,27637.0
+20603,Rautahat,Phatuwa Bijayapur Urban Municipality,Urban Municipality,Tarai,36308.0,42218.0,5633.0,7354.0,18455.0,20975.0,17853.0,21243.0
+20604,Rautahat,Katahariya Urban Municipality,Urban Municipality,Tarai,38412.0,45821.0,5919.0,7642.0,19843.0,23489.0,18569.0,22332.0
+20605,Rautahat,Brindaban Urban Municipality,Urban Municipality,Tarai,42735.0,49742.0,6374.0,8142.0,21811.0,24894.0,20924.0,24848.0
+20606,Rautahat,Gadhimai Urban Municipality,Urban Municipality,Tarai,40410.0,49135.0,6069.0,7787.0,20705.0,25049.0,19705.0,24086.0
+20607,Rautahat,Madhav Narayan Urban Municipality,Urban Municipality,Tarai,35175.0,40894.0,5479.0,7020.0,18253.0,21030.0,16922.0,19864.0
+20608,Rautahat,Garuda Urban Municipality,Urban Municipality,Tarai,50481.0,60857.0,7444.0,9862.0,25998.0,30951.0,24483.0,29906.0
+20609,Rautahat,Dewahi Gonahi Urban Municipality,Urban Municipality,Tarai,32143.0,38690.0,4691.0,6222.0,16451.0,19295.0,15692.0,19395.0
+20610,Rautahat,Maulapur Urban Municipality,Urban Municipality,Tarai,26424.0,32325.0,3830.0,5268.0,13651.0,16729.0,12773.0,15596.0
+20611,Rautahat,Boudhimai Urban Municipality,Urban Municipality,Tarai,33265.0,39325.0,4807.0,6078.0,17251.0,20226.0,16014.0,19099.0
+20612,Rautahat,Paroha Urban Municipality,Urban Municipality,Tarai,37453.0,45702.0,5380.0,7024.0,19209.0,22708.0,18244.0,22994.0
+20613,Rautahat,Rajpur Urban Municipality,Urban Municipality,Tarai,41078.0,54083.0,5768.0,8078.0,20324.0,26574.0,20754.0,27509.0
+20614,Rautahat,Yamunamai Rural Municipality,Rural Municipality,Tarai,23884.0,28414.0,3776.0,4711.0,12211.0,13887.0,11673.0,14527.0
+20615,Rautahat,Durga Bhagawati Rural Municipality,Rural Municipality,Tarai,22699.0,22864.0,3812.0,4124.0,11892.0,11533.0,10807.0,11331.0
+20616,Rautahat,Rajdevi Urban Municipality,Urban Municipality,Tarai,30569.0,35658.0,5365.0,6146.0,15998.0,17871.0,14571.0,17787.0
+20617,Rautahat,Gaur Urban Municipality,Urban Municipality,Tarai,34937.0,39846.0,5635.0,7235.0,18290.0,20426.0,16647.0,19420.0
+20618,Rautahat,Ishanath Urban Municipality,Urban Municipality,Tarai,41435.0,51855.0,5834.0,7937.0,20868.0,25772.0,20567.0,26083.0
+20701,Bara,Nijagadh Urban Municipality,Urban Municipality,Tarai,35335.0,37687.0,7162.0,8424.0,17026.0,18446.0,18309.0,19241.0
+20702,Bara,Kolhabi Urban Municipality,Urban Municipality,Tarai,44035.0,51182.0,8111.0,10561.0,21305.0,24862.0,22730.0,26320.0
+20703,Bara,Jitpur Simara Sub-Metropolitan City,Sub-Metropolitan,Tarai,117094.0,127307.0,21670.0,25650.0,58725.0,63927.0,58369.0,63380.0
+20704,Bara,Parawanipur Rural Municipality,Rural Municipality,Tarai,22787.0,24745.0,3166.0,3972.0,11914.0,13040.0,10873.0,11705.0
+20705,Bara,Prasauni Rural Municipality,Rural Municipality,Tarai,25049.0,25414.0,3626.0,3968.0,12872.0,13100.0,12177.0,12314.0
+20706,Bara,Bishrampur Rural Municipality,Rural Municipality,Tarai,23785.0,24892.0,3395.0,3886.0,12547.0,13145.0,11238.0,11747.0
+20707,Bara,Pheta Rural Municipality,Rural Municipality,Tarai,25653.0,28395.0,3585.0,4202.0,13166.0,14592.0,12487.0,13803.0
+20708,Bara,Kalaiya Sub-Metropolitan City,Sub-Metropolitan,Tarai,123024.0,136222.0,18689.0,22125.0,63648.0,70358.0,59376.0,65864.0
+20709,Bara,Karaiyamai Rural Municipality,Rural Municipality,Tarai,26487.0,29165.0,4173.0,5051.0,13475.0,14651.0,13012.0,14514.0
+20710,Bara,Baragadhi Rural Municipality,Rural Municipality,Tarai,27191.0,29555.0,4270.0,4940.0,13839.0,14900.0,13352.0,14655.0
+20711,Bara,Aadarsha Kotwal Rural Municipality,Rural Municipality,Tarai,27552.0,31364.0,3960.0,4888.0,14176.0,16067.0,13376.0,15297.0
+20712,Bara,Simroungadh Urban Municipality,Urban Municipality,Tarai,48570.0,54878.0,7093.0,8531.0,25015.0,28330.0,23555.0,26548.0
+20713,Bara,Pacharauta Urban Municipality,Urban Municipality,Tarai,34173.0,40524.0,4707.0,6167.0,17538.0,20802.0,16635.0,19722.0
+20714,Bara,Mahagadhimai Urban Municipality,Urban Municipality,Tarai,52336.0,59424.0,7773.0,9761.0,26818.0,30559.0,25518.0,28865.0
+20715,Bara,Devtal Rural Municipality,Rural Municipality,Tarai,23223.0,25361.0,3185.0,3980.0,12108.0,13091.0,11115.0,12270.0
+20716,Bara,Subarna Rural Municipality,Rural Municipality,Tarai,29537.0,35141.0,4035.0,5073.0,15280.0,18164.0,14257.0,16977.0
+20801,Parsa,Thori Rural Municipality,Rural Municipality,Tarai,20397.0,17219.0,4247.0,4452.0,9832.0,8079.0,10565.0,9140.0
+20802,Parsa,Jirabhawani Rural Municipality,Rural Municipality,Tarai,22765.0,22677.0,4117.0,4871.0,11367.0,11150.0,11398.0,11527.0
+20803,Parsa,Jagarnathpur Rural Municipality,Rural Municipality,Tarai,32663.0,32649.0,4953.0,5582.0,16815.0,16734.0,15848.0,15915.0
+20804,Parsa,Paterwa Sugauli Rural Municipality,Rural Municipality,Tarai,23901.0,25498.0,4002.0,4753.0,12080.0,12802.0,11821.0,12696.0
+20805,Parsa,Sakhuwa Prasauni Rural Municipality,Rural Municipality,Tarai,33048.0,35399.0,5329.0,6295.0,16798.0,17697.0,16250.0,17702.0
+20806,Parsa,Parsagadhi Urban Municipality,Urban Municipality,Tarai,38607.0,41569.0,6412.0,7632.0,19560.0,21011.0,19047.0,20558.0
+20807,Parsa,Birgunj Metropolitan City,Metropolitan,Tarai,240922.0,272382.0,39286.0,47114.0,127227.0,142195.0,113695.0,130187.0
+20808,Parsa,Bahudarmai Urban Municipality,Urban Municipality,Tarai,39673.0,43478.0,5681.0,6957.0,20734.0,22731.0,18939.0,20747.0
+20809,Parsa,Pokhariya Urban Municipality,Urban Municipality,Tarai,32885.0,37675.0,4875.0,6076.0,16859.0,19562.0,16026.0,18113.0
+20810,Parsa,Kalikamai Rural Municipality,Rural Municipality,Tarai,21141.0,23480.0,3042.0,3697.0,10939.0,12158.0,10202.0,11322.0
+20811,Parsa,Dhobini Rural Municipality,Rural Municipality,Tarai,19911.0,22606.0,2975.0,3499.0,10192.0,11611.0,9719.0,10995.0
+20812,Parsa,Chhipaharmai Rural Municipality,Rural Municipality,Tarai,26671.0,29082.0,3983.0,4663.0,13634.0,14987.0,13037.0,14095.0
+20813,Parsa,Pakaha Mainpur Rural Municipality,Rural Municipality,Tarai,20717.0,22585.0,3038.0,3530.0,10799.0,11798.0,9918.0,10787.0
+20814,Parsa,Bindabasini Rural Municipality,Rural Municipality,Tarai,24468.0,24991.0,3576.0,3892.0,12636.0,12854.0,11832.0,12137.0
+30101,Dolakha,Gaurishankar Rural Municipality,Rural Municipality,Mountain,17062.0,15995.0,4067.0,4399.0,8169.0,7853.0,8893.0,8142.0
+30102,Dolakha,Bigu Rural Municipality,Rural Municipality,Mountain,18449.0,16490.0,4418.0,4747.0,8846.0,7970.0,9603.0,8520.0
+30103,Dolakha,Kalinchowk Rural Municipality,Rural Municipality,Mountain,22954.0,21097.0,5457.0,6151.0,10946.0,10269.0,12008.0,10828.0
+30104,Dolakha,Baiteshwor Rural Municipality,Rural Municipality,Mountain,19876.0,17896.0,5079.0,5373.0,9095.0,8533.0,10781.0,9363.0
+30105,Dolakha,Jiri Urban Municipality,Urban Municipality,Mountain,15515.0,16109.0,3854.0,4244.0,7141.0,7809.0,8374.0,8300.0
+30106,Dolakha,Tamakoshi Rural Municipality,Rural Municipality,Mountain,18849.0,15163.0,4345.0,4485.0,8776.0,7317.0,10073.0,7846.0
+30107,Dolakha,Melung Rural Municipality,Rural Municipality,Mountain,20210.0,15893.0,4841.0,4796.0,9015.0,7456.0,11195.0,8437.0
+30108,Dolakha,Shailung Rural Municipality,Rural Municipality,Mountain,19698.0,17923.0,4958.0,5134.0,8786.0,8584.0,10912.0,9339.0
+30109,Dolakha,Bhimeshwor Urban Municipality,Urban Municipality,Mountain,32486.0,34712.0,8639.0,10164.0,14980.0,16630.0,17506.0,18082.0
+30201,Sindhupalchok,Bhotekoshi Rural Municipality,Rural Municipality,Mountain,16631.0,14318.0,4183.0,3732.0,8431.0,7274.0,8200.0,7044.0
+30202,Sindhupalchok,Jugal Rural Municipality,Rural Municipality,Mountain,19231.0,18303.0,3941.0,4528.0,9581.0,9194.0,9650.0,9109.0
+30203,Sindhupalchok,Panchpokhari Thangpal Rural Municipality,Rural Municipality,Mountain,20860.0,20997.0,5007.0,5914.0,10605.0,10614.0,10255.0,10383.0
+30204,Sindhupalchok,Helambu Rural Municipality,Rural Municipality,Mountain,17671.0,17497.0,4203.0,4690.0,8564.0,8781.0,9107.0,8716.0
+30205,Sindhupalchok,Melanchi Urban Municipality,Urban Municipality,Mountain,45343.0,41063.0,10097.0,11180.0,21729.0,19963.0,23614.0,21100.0
+30206,Sindhupalchok,Indrawoti Rural Municipality,Rural Municipality,Mountain,28517.0,25365.0,6211.0,6780.0,13376.0,12183.0,15141.0,13182.0
+30207,Sindhupalchok,Choutara Sangachowkgadhi Urban Municipality,Urban Municipality,Mountain,46497.0,42668.0,10906.0,11590.0,21272.0,20067.0,25225.0,22601.0
+30208,Sindhupalchok,Balephi Rural Municipality,Rural Municipality,Mountain,18909.0,17085.0,4429.0,4829.0,9002.0,8407.0,9907.0,8678.0
+30209,Sindhupalchok,Bahrabise Urban Municipality,Urban Municipality,Mountain,26535.0,24109.0,6225.0,6655.0,12904.0,12020.0,13631.0,12089.0
+30210,Sindhupalchok,Tripurasundari Rural Municipality,Rural Municipality,Mountain,13197.0,12014.0,3394.0,3651.0,6215.0,5866.0,6982.0,6148.0
+30211,Sindhupalchok,Lisankhu Pakhar Rural Municipality,Rural Municipality,Mountain,15133.0,11750.0,3680.0,3697.0,7101.0,5706.0,8032.0,6044.0
+30212,Sindhupalchok,Sunkoshi Rural Municipality,Rural Municipality,Mountain,17246.0,15176.0,4359.0,4451.0,7883.0,7311.0,9363.0,7865.0
+30301,Rasuwa,Gosaikunda Rural Municipality,Rural Municipality,Mountain,7143.0,7788.0,2017.0,2038.0,3697.0,3973.0,3446.0,3815.0
+30302,Rasuwa,Aamachhodingmo Rural Municipality,Rural Municipality,Mountain,5490.0,6673.0,1306.0,1664.0,2697.0,3480.0,2793.0,3193.0
+30303,Rasuwa,Uttargaya Rural Municipality,Rural Municipality,Mountain,8255.0,8555.0,1846.0,2188.0,3845.0,4235.0,4410.0,4320.0
+30304,Rasuwa,Shuva Kalika Rural Municipality,Rural Municipality,Mountain,9421.0,10115.0,2089.0,2447.0,4486.0,5021.0,4935.0,5094.0
+30305,Rasuwa,Naukunda Rural Municipality,Rural Municipality,Mountain,11824.0,12344.0,2483.0,2794.0,5773.0,6209.0,6051.0,6135.0
+30401,Dhading,Rubi Valley Rural Municipality,Rural Municipality,Hill,9562.0,10781.0,2134.0,2649.0,4462.0,5359.0,5100.0,5422.0
+30402,Dhading,Khaniyabas Rural Municipality,Rural Municipality,Hill,12749.0,10287.0,2651.0,2685.0,5847.0,5008.0,6902.0,5279.0
+30403,Dhading,Ganga Jamuna Rural Municipality,Rural Municipality,Hill,21784.0,19265.0,4864.0,5264.0,9527.0,9307.0,12257.0,9958.0
+30404,Dhading,Tripurasundari Rural Municipality,Rural Municipality,Hill,22960.0,21937.0,5355.0,5947.0,10050.0,10411.0,12910.0,11526.0
+30405,Dhading,Netrawati Dabjong Rural Municipality,Rural Municipality,Hill,12870.0,11310.0,3121.0,3263.0,5603.0,5361.0,7267.0,5949.0
+30406,Dhading,Nilkhantha Urban Municipality,Urban Municipality,Hill,58515.0,58828.0,13984.0,16391.0,26510.0,27365.0,32005.0,31463.0
+30407,Dhading,Jwalamukhi Rural Municipality,Rural Municipality,Hill,23966.0,21338.0,5730.0,6079.0,10573.0,9982.0,13393.0,11356.0
+30408,Dhading,Siddhalek Rural Municipality,Rural Municipality,Hill,23729.0,22214.0,5138.0,5836.0,10965.0,10702.0,12764.0,11512.0
+30409,Dhading,Benighat Rorang Rural Municipality,Rural Municipality,Hill,31475.0,33854.0,6169.0,7601.0,15660.0,17116.0,15815.0,16738.0
+30410,Dhading,Gajuri Rural Municipality,Rural Municipality,Hill,27084.0,28634.0,5600.0,6839.0,13311.0,14326.0,13773.0,14308.0
+30411,Dhading,Galchhi Rural Municipality,Rural Municipality,Hill,25655.0,23733.0,5410.0,5975.0,12342.0,11627.0,13313.0,12106.0
+30412,Dhading,Thakre Rural Municipality,Rural Municipality,Hill,32914.0,32374.0,6927.0,7847.0,16053.0,16204.0,16861.0,16170.0
+30413,Dhading,Dhunibenshi Urban Municipality,Urban Municipality,Hill,31029.0,29149.0,6759.0,7246.0,15197.0,14468.0,15832.0,14681.0
+30501,Nuwakot,Dupcheshwor Rural Municipality,Rural Municipality,Hill,22106.0,21005.0,4451.0,5141.0,11145.0,10474.0,10961.0,10531.0
+30502,Nuwakot,Tadi Rural Municipality,Rural Municipality,Hill,17932.0,15933.0,3582.0,4024.0,8977.0,7947.0,8955.0,7986.0
+30503,Nuwakot,Suryagadhi Rural Municipality,Rural Municipality,Hill,16800.0,14919.0,3509.0,3829.0,8194.0,7264.0,8606.0,7655.0
+30504,Nuwakot,Bidur Urban Municipality,Urban Municipality,Hill,54351.0,59227.0,12505.0,15234.0,25228.0,28449.0,29123.0,30778.0
+30505,Nuwakot,Kispang Rural Municipality,Rural Municipality,Hill,14861.0,14235.0,3340.0,3929.0,6942.0,6946.0,7919.0,7289.0
+30506,Nuwakot,Myagang Rural Municipality,Rural Municipality,Hill,13479.0,12668.0,3388.0,3969.0,6059.0,6053.0,7420.0,6615.0
+30507,Nuwakot,Tarakeshwor Rural Municipality,Rural Municipality,Hill,15719.0,14184.0,3511.0,3879.0,7034.0,6671.0,8685.0,7513.0
+30508,Nuwakot,Belkotgadhi Urban Municipality,Urban Municipality,Hill,40698.0,35224.0,8099.0,9222.0,19602.0,17057.0,21096.0,18167.0
+30509,Nuwakot,Likhu Rural Municipality,Rural Municipality,Hill,16852.0,17728.0,3629.0,4582.0,7807.0,8587.0,9045.0,9141.0
+30510,Nuwakot,Panchakanya Rural Municipality,Rural Municipality,Hill,15945.0,13818.0,3321.0,3600.0,7711.0,6747.0,8234.0,7071.0
+30511,Nuwakot,Shivapuri Rural Municipality,Rural Municipality,Hill,20769.0,17203.0,4676.0,4925.0,9752.0,8222.0,11017.0,8981.0
+30512,Nuwakot,Kakani Rural Municipality,Rural Municipality,Hill,26263.0,24504.0,5183.0,6312.0,12986.0,12087.0,13277.0,12417.0
+30601,Kathmandu,Shankharapur Urban Municipality,Urban Municipality,Hill,25338.0,29318.0,5406.0,7140.0,12346.0,14433.0,12992.0,14885.0
+30602,Kathmandu,Kageshwori Manahara Urban Municipality,Urban Municipality,Hill,60237.0,130433.0,14329.0,33764.0,30233.0,65031.0,30004.0,65402.0
+30603,Kathmandu,Gokarneshwor Urban Municipality,Urban Municipality,Hill,107351.0,149366.0,27106.0,39771.0,53725.0,73235.0,53626.0,76131.0
+30604,Kathmandu,Budhanilkhantha Urban Municipality,Urban Municipality,Hill,107918.0,177557.0,26485.0,46930.0,54185.0,87337.0,53733.0,90220.0
+30605,Kathmandu,Tokha Urban Municipality,Urban Municipality,Hill,99032.0,133755.0,25561.0,37025.0,50709.0,66532.0,48323.0,67223.0
+30606,Kathmandu,Tarakeshwor Urban Municipality,Urban Municipality,Hill,81443.0,151479.0,20158.0,41362.0,41376.0,75281.0,40067.0,76198.0
+30607,Kathmandu,Nagarjun Urban Municipality,Urban Municipality,Hill,67420.0,115437.0,16746.0,31301.0,34064.0,57596.0,33356.0,57841.0
+30608,Kathmandu,Kathmandu Metropolitan City,Metropolitan,Hill,975453.0,862400.0,254292.0,238966.0,511841.0,438256.0,463612.0,424144.0
+30609,Kathmandu,Kirtipur Urban Municipality,Urban Municipality,Hill,65602.0,81578.0,19441.0,24150.0,36476.0,43247.0,29126.0,38331.0
+30610,Kathmandu,Chandragiri Urban Municipality,Urban Municipality,Hill,85198.0,136860.0,20532.0,35994.0,42881.0,68303.0,42317.0,68557.0
+30611,Kathmandu,Dakshinkali Urban Municipality,Urban Municipality,Hill,24297.0,26372.0,5488.0,6489.0,11873.0,12955.0,12424.0,13417.0
+30701,Bhaktapur,Changunarayan Urban Municipality,Urban Municipality,Hill,55430.0,88083.0,12170.0,21588.0,26992.0,43674.0,28438.0,44409.0
+30702,Bhaktapur,Bhaktapur Urban Municipality,Urban Municipality,Hill,81748.0,79136.0,17639.0,18987.0,41081.0,39755.0,40667.0,39381.0
+30703,Bhaktapur,Madhyapur Thimi Urban Municipality,Urban Municipality,Hill,83036.0,119756.0,20302.0,31966.0,42723.0,60746.0,40313.0,59010.0
+30704,Bhaktapur,Suryabinayak Urban Municipality,Urban Municipality,Hill,78490.0,140085.0,18446.0,35865.0,38899.0,69915.0,39591.0,70170.0
+30801,Lalitpur,Mahalaxmi Urban Municipality,Urban Municipality,Hill,62172.0,123116.0,14930.0,32106.0,31071.0,62399.0,31101.0,60717.0
+30802,Lalitpur,Lalitpur Metropolitan City,Metropolitan,Hill,284922.0,294098.0,70256.0,77159.0,145924.0,146730.0,138998.0,147368.0
+30803,Lalitpur,Godawari Urban Municipality,Urban Municipality,Hill,78301.0,97633.0,17762.0,24045.0,38282.0,48140.0,40019.0,49493.0
+30804,Lalitpur,Konjyosom Rural Municipality,Rural Municipality,Hill,9709.0,8989.0,2001.0,2142.0,4596.0,4398.0,5113.0,4591.0
+30805,Lalitpur,Mahankal Rural Municipality,Rural Municipality,Hill,9453.0,8122.0,1942.0,1939.0,4583.0,4072.0,4870.0,4050.0
+30806,Lalitpur,Bagmati Rural Municipality,Rural Municipality,Hill,13049.0,11353.0,2614.0,2739.0,6454.0,5700.0,6595.0,5653.0
+30901,Kavrepalanchok,Chauri Deurali Rural Municipality,Rural Municipality,Hill,20829.0,14076.0,4664.0,4156.0,9468.0,6661.0,11361.0,7415.0
+30902,Kavrepalanchok,Bhumlu Rural Municipality,Rural Municipality,Hill,18916.0,15678.0,4513.0,4518.0,8816.0,7596.0,10100.0,8082.0
+30903,Kavrepalanchok,Mandan Deupur Urban Municipality,Urban Municipality,Hill,32659.0,30381.0,7328.0,7924.0,15320.0,14853.0,17339.0,15528.0
+30904,Kavrepalanchok,Banepa Urban Municipality,Urban Municipality,Hill,55628.0,67690.0,12106.0,16698.0,27305.0,33172.0,28323.0,34518.0
+30905,Kavrepalanchok,Dhulikhel Urban Municipality,Urban Municipality,Hill,32162.0,33726.0,7061.0,8570.0,15484.0,16462.0,16678.0,17264.0
+30906,Kavrepalanchok,Panchkhal Urban Municipality,Urban Municipality,Hill,37997.0,35521.0,8544.0,9133.0,17943.0,17212.0,20054.0,18309.0
+30907,Kavrepalanchok,Temal Rural Municipality,Rural Municipality,Hill,22712.0,16957.0,4876.0,4869.0,10583.0,8220.0,12129.0,8737.0
+30908,Kavrepalanchok,Namobuddha Urban Municipality,Urban Municipality,Hill,29519.0,26160.0,6584.0,7148.0,13604.0,12496.0,15915.0,13664.0
+30909,Kavrepalanchok,Panauti Urban Municipality,Urban Municipality,Hill,46595.0,51504.0,10196.0,12806.0,21808.0,25015.0,24787.0,26489.0
+30910,Kavrepalanchok,Bethanchowk Rural Municipality,Rural Municipality,Hill,16777.0,14959.0,3601.0,3861.0,7679.0,7150.0,9098.0,7809.0
+30911,Kavrepalanchok,Roshi Rural Municipality,Rural Municipality,Hill,28746.0,23790.0,5896.0,6075.0,13531.0,11486.0,15215.0,12304.0
+30912,Kavrepalanchok,Mahabharat Rural Municipality,Rural Municipality,Hill,18283.0,16079.0,2910.0,3174.0,8941.0,7880.0,9342.0,8199.0
+30913,Kavrepalanchok,Khanikhola Rural Municipality,Rural Municipality,Hill,14398.0,12201.0,2372.0,2398.0,7064.0,6049.0,7334.0,6152.0
+31001,Ramechhap,Umakunda Rural Municipality,Rural Municipality,Hill,17601.0,16590.0,3869.0,4113.0,8243.0,8163.0,9358.0,8427.0
+31002,Ramechhap,Gokulganga Rural Municipality,Rural Municipality,Hill,20058.0,17798.0,4446.0,4683.0,9284.0,8553.0,10774.0,9245.0
+31003,Ramechhap,Likhu Tamakoshi Rural Municipality,Rural Municipality,Hill,23109.0,18325.0,4928.0,5296.0,10615.0,8497.0,12494.0,9828.0
+31004,Ramechhap,Ramechhap Urban Municipality,Urban Municipality,Hill,28612.0,24971.0,6126.0,6627.0,12879.0,11758.0,15733.0,13213.0
+31005,Ramechhap,Manthali Urban Municipality,Urban Municipality,Hill,45416.0,39695.0,10099.0,10991.0,20750.0,18480.0,24666.0,21215.0
+31006,Ramechhap,Khandadevi Rural Municipality,Rural Municipality,Hill,25761.0,19312.0,5372.0,5501.0,11762.0,8995.0,13999.0,10317.0
+31007,Ramechhap,Doramba Rural Municipality,Rural Municipality,Hill,22738.0,17686.0,4993.0,5062.0,10302.0,8288.0,12436.0,9398.0
+31008,Ramechhap,Sunapati Rural Municipality,Rural Municipality,Hill,18128.0,14658.0,4050.0,4193.0,8348.0,6946.0,9780.0,7712.0
+31101,Sindhuli,Dudhouli Urban Municipality,Urban Municipality,Hill,65302.0,70207.0,13164.0,16110.0,31004.0,33852.0,34298.0,36355.0
+31102,Sindhuli,Phikkal Rural Municipality,Rural Municipality,Hill,16968.0,15910.0,3035.0,3436.0,8143.0,7787.0,8825.0,8123.0
+31103,Sindhuli,Tinpatan Rural Municipality,Rural Municipality,Hill,36405.0,34889.0,6879.0,7918.0,17376.0,17102.0,19029.0,17787.0
+31104,Sindhuli,Golanjor Rural Municipality,Rural Municipality,Hill,19329.0,18737.0,3681.0,4527.0,9400.0,9229.0,9929.0,9508.0
+31105,Sindhuli,Kamalamai Urban Municipality,Urban Municipality,Hill,64386.0,71016.0,14315.0,18135.0,30462.0,34316.0,33924.0,36700.0
+31106,Sindhuli,Sunkoshi Rural Municipality,Rural Municipality,Hill,21473.0,18375.0,4557.0,4987.0,9988.0,8834.0,11485.0,9541.0
+31107,Sindhuli,Ghyanglekha Rural Municipality,Rural Municipality,Hill,13761.0,12652.0,2457.0,2868.0,6471.0,6153.0,7290.0,6499.0
+31108,Sindhuli,Marin Rural Municipality,Rural Municipality,Hill,27822.0,28808.0,4870.0,6044.0,13282.0,14184.0,14540.0,14624.0
+31109,Sindhuli,Hariharpurgaghi Rural Municipality,Rural Municipality,Hill,27727.0,26505.0,4586.0,5292.0,13275.0,12900.0,14452.0,13605.0
+31201,Makwanpur,Indrasarowar Rural Municipality,Rural Municipality,Hill,13809.0,13534.0,3054.0,3403.0,6509.0,6617.0,7300.0,6917.0
+31202,Makwanpur,Thaha Urban Municipality,Urban Municipality,Hill,41623.0,38870.0,8928.0,9749.0,19811.0,19131.0,21812.0,19739.0
+31203,Makwanpur,Kailash Rural Municipality,Rural Municipality,Hill,23922.0,21856.0,4263.0,4391.0,11943.0,11122.0,11979.0,10734.0
+31204,Makwanpur,Raksirang Rural Municipality,Rural Municipality,Hill,26192.0,25996.0,4557.0,5044.0,13110.0,13201.0,13082.0,12795.0
+31205,Makwanpur,Manahari Rural Municipality,Rural Municipality,Hill,38399.0,47353.0,7891.0,10724.0,18520.0,23395.0,19879.0,23958.0
+31206,Makwanpur,Hetauda Sub-Metropolitan City,Sub-Metropolitan,Hill,152875.0,193576.0,34270.0,46566.0,74964.0,95678.0,77911.0,97898.0
+31207,Makwanpur,Bhimphedi Rural Municipality,Rural Municipality,Hill,23344.0,21516.0,4810.0,5085.0,11183.0,10683.0,12161.0,10833.0
+31208,Makwanpur,Makawanpurgadhi Rural Municipality,Rural Municipality,Hill,25322.0,24461.0,5003.0,5285.0,12279.0,12273.0,13043.0,12188.0
+31209,Makwanpur,Bakaiya Rural Municipality,Rural Municipality,Hill,39620.0,40907.0,7538.0,8913.0,19129.0,20058.0,20491.0,20849.0
+31210,Makwanpur,Bagmati Rural Municipality,Rural Municipality,Hill,30495.0,30425.0,5731.0,6460.0,14635.0,14910.0,15860.0,15515.0
+31301,Chitawan,Rapti Urban Municipality,Urban Municipality,Tarai,58107.0,66617.0,12055.0,15215.0,27729.0,32677.0,30378.0,33940.0
+31302,Chitawan,Kalika Urban Municipality,Urban Municipality,Tarai,42493.0,52164.0,9116.0,12258.0,20218.0,25491.0,22275.0,26673.0
+31303,Chitawan,Ichchha Kamana Rural Municipality,Rural Municipality,Tarai,25002.0,27643.0,4778.0,6185.0,12460.0,14007.0,12542.0,13636.0
+31304,Chitawan,Bharatpur Metropolitan City,Metropolitan,Tarai,280502.0,369268.0,69035.0,96591.0,134001.0,178897.0,146501.0,190371.0
+31305,Chitawan,Ratnanagar Urban Municipality,Urban Municipality,Tarai,69851.0,89905.0,16070.0,22403.0,33256.0,43531.0,36595.0,46374.0
+31306,Chitawan,Khairahani Urban Municipality,Urban Municipality,Tarai,56094.0,67385.0,12331.0,16395.0,26075.0,32332.0,30019.0,35053.0
+31307,Chitawan,Madi Urban Municipality,Urban Municipality,Tarai,37683.0,38295.0,8960.0,10120.0,16876.0,18083.0,20807.0,20212.0
+40101,Gorkha,Chumanubri Rural Municipality,Rural Municipality,Hill,6923.0,5932.0,1949.0,2068.0,3258.0,2845.0,3665.0,3087.0
+40102,Gorkha,Ajirkot Rural Municipality,Rural Municipality,Hill,15602.0,12832.0,3618.0,3622.0,7165.0,6211.0,8437.0,6621.0
+40103,Gorkha,Barpak Sulikot Rural Municipality,Rural Municipality,Hill,25389.0,22636.0,5829.0,6283.0,11103.0,10564.0,14286.0,12072.0
+40104,Gorkha,Dharche Rural Municipality,Rural Municipality,Hill,13229.0,14263.0,3128.0,3808.0,5977.0,6832.0,7252.0,7431.0
+40105,Gorkha,Aarughat Rural Municipality,Rural Municipality,Hill,23884.0,21572.0,5614.0,6176.0,10639.0,10145.0,13245.0,11427.0
+40106,Gorkha,Bhimsenthapa Rural Municipality,Rural Municipality,Hill,22033.0,16986.0,5438.0,5239.0,9496.0,7707.0,12537.0,9279.0
+40107,Gorkha,Siranchowk Rural Municipality,Rural Municipality,Hill,23628.0,19719.0,5896.0,5958.0,10521.0,9312.0,13107.0,10407.0
+40108,Gorkha,Palungtar Urban Municipality,Urban Municipality,Hill,38174.0,37409.0,9924.0,11072.0,16604.0,17262.0,21570.0,20147.0
+40109,Gorkha,Gorkha Urban Municipality,Urban Municipality,Hill,49272.0,52468.0,13127.0,14988.0,21959.0,24257.0,27313.0,28211.0
+40110,Gorkha,Shahid Lakhan Rural Municipality,Rural Municipality,Hill,27555.0,23076.0,6682.0,6856.0,12065.0,10807.0,15490.0,12269.0
+40111,Gorkha,Gandaki Rural Municipality,Rural Municipality,Hill,23253.0,21394.0,5253.0,5659.0,10559.0,10289.0,12694.0,11105.0
+40201,Manang,Narpa Bhumi Rural Municipality,Rural Municipality,Mountain,538.0,396.0,122.0,126.0,258.0,169.0,280.0,227.0
+40202,Manang,Manang Ngisyang Rural Municipality,Rural Municipality,Mountain,2222.0,1595.0,593.0,561.0,1205.0,824.0,1017.0,771.0
+40203,Manang,Chame Rural Municipality,Rural Municipality,Mountain,1129.0,1276.0,279.0,389.0,597.0,730.0,532.0,546.0
+40204,Manang,Nason Rural Municipality,Rural Municipality,Mountain,1938.0,1671.0,454.0,471.0,955.0,828.0,983.0,843.0
+40301,Mustang,Lo Ghekar Damodarkunda Rural Municipality,Rural Municipality,Mountain,1423.0,1292.0,404.0,436.0,682.0,609.0,741.0,683.0
+40302,Mustang,Gharpajhong Rural Municipality,Rural Municipality,Mountain,3029.0,3712.0,874.0,1127.0,1594.0,1943.0,1435.0,1769.0
+40303,Mustang,Varagung Muktichhetra Rural Municipality,Rural Municipality,Mountain,2330.0,2036.0,725.0,723.0,1121.0,1015.0,1209.0,1021.0
+40304,Mustang,Lomanthang Rural Municipality,Rural Municipality,Mountain,1899.0,1430.0,532.0,488.0,868.0,643.0,1031.0,787.0
+40305,Mustang,Thasang Rural Municipality,Rural Municipality,Mountain,2912.0,2856.0,770.0,832.0,1506.0,1454.0,1406.0,1402.0
+40401,Myagdi,Annapurna Rural Municipality,Rural Municipality,Hill,13315.0,12323.0,3700.0,3600.0,6098.0,6086.0,7217.0,6237.0
+40402,Myagdi,Raghuganga Rural Municipality,Rural Municipality,Hill,15753.0,14114.0,4098.0,4153.0,6881.0,6767.0,8872.0,7347.0
+40403,Myagdi,Dhawalagiri Rural Municipality,Rural Municipality,Hill,14104.0,12616.0,3229.0,3176.0,6334.0,6113.0,7770.0,6503.0
+40404,Myagdi,Malika Rural Municipality,Rural Municipality,Hill,19121.0,18332.0,4223.0,4590.0,8605.0,8867.0,10516.0,9465.0
+40405,Myagdi,Mangala Rural Municipality,Rural Municipality,Hill,16286.0,14688.0,3825.0,3911.0,7114.0,6927.0,9172.0,7761.0
+40406,Myagdi,Beni Urban Municipality,Urban Municipality,Hill,33498.0,32697.0,8652.0,9336.0,15002.0,15361.0,18496.0,17336.0
+40501,Kaski,Madi Rural Municipality,Rural Municipality,Hill,18153.0,16142.0,4508.0,4094.0,8241.0,8017.0,9912.0,8125.0
+40502,Kaski,Machhapuchchhre Rural Municipality,Rural Municipality,Hill,21868.0,22898.0,5512.0,6151.0,9970.0,11173.0,11898.0,11725.0
+40503,Kaski,Annapurna Rural Municipality,Rural Municipality,Hill,23417.0,22099.0,6029.0,6049.0,10597.0,10686.0,12820.0,11413.0
+40504,Kaski,Pokhara Metropolitan City,Metropolitan,Hill,402995.0,513504.0,105630.0,140459.0,192977.0,247495.0,210018.0,266009.0
+40505,Kaski,Rupa Rural Municipality,Rural Municipality,Hill,14519.0,14891.0,3780.0,3663.0,6289.0,7113.0,8230.0,7778.0
+40601,Lamjung,Dordi Rural Municipality,Rural Municipality,Hill,18252.0,16050.0,4337.0,4524.0,8337.0,7772.0,9915.0,8278.0
+40602,Lamjung,Marshyangdi Rural Municipality,Rural Municipality,Hill,18759.0,17080.0,4409.0,4550.0,8619.0,8330.0,10140.0,8750.0
+40603,Lamjung,Kwhola Sothar Rural Municipality,Rural Municipality,Hill,10032.0,7960.0,2452.0,2276.0,4512.0,3841.0,5520.0,4119.0
+40604,Lamjung,Madhya Nepal Urban Municipality,Urban Municipality,Hill,23385.0,21971.0,5888.0,6427.0,10469.0,10076.0,12916.0,11895.0
+40605,Lamjung,Bensi Shahar Urban Municipality,Urban Municipality,Hill,39356.0,38232.0,10422.0,11038.0,17670.0,17879.0,21686.0,20353.0
+40606,Lamjung,Sundarbazar Urban Municipality,Urban Municipality,Hill,26864.0,27043.0,7199.0,7829.0,11769.0,12511.0,15095.0,14532.0
+40607,Lamjung,Rainas Urban Municipality,Urban Municipality,Hill,18527.0,17402.0,4751.0,4961.0,8099.0,8202.0,10428.0,9200.0
+40608,Lamjung,Dudhapokhari Rural Municipality,Rural Municipality,Hill,10975.0,8592.0,2590.0,2469.0,5020.0,4179.0,5955.0,4413.0
+40701,Tanahu,Bhanu Urban Municipality,Urban Municipality,Hill,45792.0,42794.0,12095.0,12705.0,19661.0,19517.0,26131.0,23277.0
+40702,Tanahu,Byas Urban Municipality,Urban Municipality,Hill,70335.0,78939.0,18339.0,22585.0,31260.0,36157.0,39075.0,42782.0
+40703,Tanahu,Myagde Rural Municipality,Rural Municipality,Hill,22502.0,23578.0,5628.0,6515.0,9886.0,10882.0,12616.0,12696.0
+40704,Tanahu,Shuklagandaki Urban Municipality,Urban Municipality,Hill,48456.0,55620.0,12185.0,15272.0,21292.0,25890.0,27164.0,29730.0
+40705,Tanahu,Bhimad Urban Municipality,Urban Municipality,Hill,31362.0,29248.0,7488.0,7970.0,13360.0,13384.0,18002.0,15864.0
+40706,Tanahu,Ghiring Rural Municipality,Rural Municipality,Hill,19318.0,14334.0,4137.0,3783.0,8225.0,6568.0,11093.0,7766.0
+40707,Tanahu,Rhishing Rural Municipality,Rural Municipality,Hill,25870.0,17918.0,5215.0,4669.0,11140.0,8208.0,14730.0,9710.0
+40708,Tanahu,Devghat Rural Municipality,Rural Municipality,Hill,16131.0,14584.0,3435.0,3670.0,7484.0,6973.0,8647.0,7611.0
+40709,Tanahu,Bandipur Rural Municipality,Rural Municipality,Hill,20013.0,18532.0,4853.0,5208.0,9048.0,8882.0,10965.0,9650.0
+40710,Tanahu,Aanbu Khaireni Rural Municipality,Rural Municipality,Hill,20768.0,22252.0,4911.0,6136.0,9504.0,10617.0,11264.0,11635.0
+40801,Nawalparasi East,Gaidakot Urban Municipality,Urban Municipality,Tarai,58841.0,79349.0,13623.0,20191.0,28209.0,37929.0,30632.0,41420.0
+40802,Nawalparasi East,Bulingtar Rural Municipality,Rural Municipality,Tarai,19122.0,14637.0,3487.0,3402.0,8663.0,7040.0,10459.0,7597.0
+40803,Nawalparasi East,Baudikali Rural Municipality,Rural Municipality,Tarai,15734.0,11338.0,2998.0,2913.0,6990.0,5180.0,8744.0,6158.0
+40804,Nawalparasi East,Hupsekot Rural Municipality,Rural Municipality,Tarai,25065.0,26583.0,4588.0,6179.0,11272.0,12153.0,13793.0,14430.0
+40805,Nawalparasi East,Devchuli Urban Municipality,Urban Municipality,Tarai,42603.0,58003.0,9256.0,14493.0,19603.0,27336.0,23000.0,30667.0
+40806,Nawalparasi East,Kawasoti Urban Municipality,Urban Municipality,Tarai,62421.0,86821.0,14104.0,22166.0,28616.0,40523.0,33805.0,46298.0
+40807,Nawalparasi East,Madhya Bindu Urban Municipality,Urban Municipality,Tarai,54140.0,61091.0,11943.0,15430.0,24057.0,27980.0,30083.0,33111.0
+40808,Nawalparasi East,Binayi Tribeni Rural Municipality,Rural Municipality,Tarai,32943.0,38370.0,6916.0,9076.0,14774.0,18129.0,18169.0,20241.0
+40901,Syangja,Putalibazar Urban Municipality,Urban Municipality,Hill,44876.0,41743.0,11882.0,11881.0,19638.0,19266.0,25238.0,22477.0
+40902,Syangja,Phedikhola Rural Municipality,Rural Municipality,Hill,12341.0,10899.0,3254.0,3165.0,5259.0,5012.0,7082.0,5887.0
+40903,Syangja,Aandhikhola Rural Municipality,Rural Municipality,Hill,16589.0,13094.0,4125.0,3992.0,7072.0,5955.0,9517.0,7139.0
+40904,Syangja,Arjun Choupari Rural Municipality,Rural Municipality,Hill,16179.0,14045.0,3938.0,3808.0,6952.0,6472.0,9227.0,7573.0
+40905,Syangja,Bhirkot Urban Municipality,Urban Municipality,Hill,25583.0,22645.0,6083.0,6171.0,10984.0,10267.0,14599.0,12378.0
+40906,Syangja,Biruwa Rural Municipality,Rural Municipality,Hill,18413.0,14001.0,4305.0,3954.0,8045.0,6591.0,10368.0,7410.0
+40907,Syangja,Harinas Rural Municipality,Rural Municipality,Hill,17343.0,13191.0,3906.0,3582.0,7464.0,6018.0,9879.0,7173.0
+40908,Syangja,Chapakot Urban Municipality,Urban Municipality,Hill,26006.0,22969.0,5934.0,6251.0,11030.0,10416.0,14976.0,12553.0
+40909,Syangja,Walling Urban Municipality,Urban Municipality,Hill,51243.0,50488.0,12182.0,13424.0,22580.0,23482.0,28663.0,27006.0
+40910,Syangja,Galyang Urban Municipality,Urban Municipality,Hill,37809.0,31034.0,8275.0,7933.0,16475.0,14154.0,21334.0,16880.0
+40911,Syangja,Kaligandaki Rural Municipality,Rural Municipality,Hill,21718.0,17955.0,4972.0,4762.0,9372.0,8144.0,12346.0,9811.0
+41001,Parbat,Modi Rural Municipality,Rural Municipality,Hill,21284.0,18794.0,5479.0,5404.0,9282.0,8853.0,12002.0,9941.0
+41002,Parbat,Jaljala Rural Municipality,Rural Municipality,Hill,21454.0,21119.0,5561.0,5961.0,9708.0,10075.0,11746.0,11044.0
+41003,Parbat,Kushma Urban Municipality,Urban Municipality,Hill,39600.0,38101.0,10311.0,10962.0,17739.0,17853.0,21861.0,20248.0
+41004,Parbat,Phalebas Urban Municipality,Urban Municipality,Hill,24687.0,20468.0,5883.0,5737.0,10665.0,9365.0,14022.0,11103.0
+41005,Parbat,Mahashila Rural Municipality,Rural Municipality,Hill,9858.0,8116.0,2229.0,2057.0,4392.0,3808.0,5466.0,4308.0
+41006,Parbat,Bihadi Rural Municipality,Rural Municipality,Hill,13403.0,10828.0,2941.0,2723.0,5849.0,5113.0,7554.0,5715.0
+41007,Parbat,Paiyu Rural Municipality,Rural Municipality,Hill,15381.0,12725.0,3294.0,3268.0,6795.0,5929.0,8586.0,6796.0
+41101,Baglung,Baglung Urban Municipality,Urban Municipality,Hill,57823.0,56102.0,15182.0,15924.0,25548.0,26080.0,32275.0,30022.0
+41102,Baglung,Kathekhola Rural Municipality,Rural Municipality,Hill,26083.0,22526.0,6128.0,5892.0,11057.0,10256.0,15026.0,12270.0
+41103,Baglung,Tarakhola Rural Municipality,Rural Municipality,Hill,12009.0,10120.0,2495.0,2337.0,5365.0,4922.0,6644.0,5198.0
+41104,Baglung,Tamankhola Rural Municipality,Rural Municipality,Hill,10659.0,9982.0,2422.0,2611.0,4677.0,4593.0,5982.0,5389.0
+41105,Baglung,Dhorpatan Urban Municipality,Urban Municipality,Hill,26215.0,30068.0,5706.0,7485.0,11784.0,13967.0,14431.0,16101.0
+41106,Baglung,Nisikhola Rural Municipality,Rural Municipality,Hill,23300.0,23119.0,4893.0,5635.0,10260.0,10560.0,13040.0,12559.0
+41107,Baglung,Badigad Rural Municipality,Rural Municipality,Hill,30906.0,28839.0,6228.0,6745.0,13591.0,13400.0,17315.0,15439.0
+41108,Baglung,Galkot Urban Municipality,Urban Municipality,Hill,33097.0,30588.0,7711.0,7714.0,14273.0,14372.0,18824.0,16216.0
+41109,Baglung,Bareng Rural Municipality,Rural Municipality,Hill,14492.0,11158.0,3240.0,2925.0,6164.0,5102.0,8328.0,6056.0
+41110,Baglung,Jaimuni Urban Municipality,Urban Municipality,Hill,32046.0,24628.0,7477.0,6828.0,13676.0,11222.0,18370.0,13406.0
+50101,Rukum East,Putha Uttanganga Rural Municipality,Rural Municipality,Hill,17932.0,18308.0,3861.0,4368.0,8512.0,8979.0,9420.0,9329.0
+50102,Rukum East,Sisne Rural Municipality,Rural Municipality,Hill,16497.0,18534.0,3506.0,4299.0,7890.0,9014.0,8607.0,9520.0
+50103,Rukum East,Bhoome Rural Municipality,Rural Municipality,Hill,18589.0,19829.0,3835.0,4211.0,8443.0,9420.0,10146.0,10409.0
+50201,Rolpa,Sunchhahari Rural Municipality,Rural Municipality,Hill,16034.0,17241.0,3016.0,3586.0,7434.0,8290.0,8600.0,8951.0
+50202,Rolpa,Thawang Rural Municipality,Rural Municipality,Hill,10881.0,10851.0,2172.0,2551.0,5035.0,5110.0,5846.0,5741.0
+50203,Rolpa,Pariwartan Rural Municipality,Rural Municipality,Hill,20778.0,21671.0,4018.0,4682.0,9279.0,9985.0,11499.0,11686.0
+50204,Rolpa,Gangadev Rural Municipality,Rural Municipality,Hill,20009.0,21503.0,3455.0,4433.0,9217.0,10045.0,10792.0,11458.0
+50205,Rolpa,Madi Rural Municipality,Rural Municipality,Hill,17986.0,18056.0,3658.0,4133.0,8191.0,8421.0,9795.0,9635.0
+50206,Rolpa,Tribeni Rural Municipality,Rural Municipality,Hill,22957.0,23412.0,4540.0,5357.0,10729.0,11024.0,12228.0,12388.0
+50207,Rolpa,Rolpa Urban Municipality,Urban Municipality,Hill,32759.0,35376.0,7133.0,8745.0,14744.0,16158.0,18015.0,19218.0
+50208,Rolpa,Runtigadhi Rural Municipality,Rural Municipality,Hill,27929.0,28291.0,5684.0,6224.0,12453.0,13349.0,15476.0,14942.0
+50209,Rolpa,Sunil Smriti Rural Municipality,Rural Municipality,Hill,28213.0,30617.0,5657.0,7009.0,12715.0,14095.0,15498.0,16522.0
+50210,Rolpa,Lungri Rural Municipality,Rural Municipality,Hill,23631.0,26325.0,4402.0,5486.0,10504.0,12085.0,13127.0,14240.0
+50301,Pyuthan,Gaumukhi Rural Municipality,Rural Municipality,Hill,25421.0,25980.0,4785.0,5578.0,11395.0,12017.0,14026.0,13963.0
+50302,Pyuthan,Naubahini Rural Municipality,Rural Municipality,Hill,30292.0,32682.0,5809.0,7133.0,13620.0,15033.0,16672.0,17649.0
+50303,Pyuthan,Jhimaruk Rural Municipality,Rural Municipality,Hill,27931.0,26130.0,5868.0,6534.0,12117.0,11631.0,15814.0,14499.0
+50304,Pyuthan,Pyuthan Urban Municipality,Urban Municipality,Hill,38449.0,42130.0,8964.0,11235.0,16813.0,18879.0,21636.0,23251.0
+50305,Pyuthan,Sworgadwari Urban Municipality,Urban Municipality,Hill,30940.0,32037.0,6968.0,8218.0,12785.0,13572.0,18155.0,18465.0
+50306,Pyuthan,Mandavi Rural Municipality,Rural Municipality,Hill,15058.0,15863.0,3068.0,3794.0,6577.0,7039.0,8481.0,8824.0
+50307,Pyuthan,Mallarani Rural Municipality,Rural Municipality,Hill,17686.0,15646.0,4120.0,4138.0,7544.0,6843.0,10142.0,8803.0
+50308,Pyuthan,Aairawati Rural Municipality,Rural Municipality,Hill,22392.0,20428.0,4650.0,5112.0,9665.0,9029.0,12727.0,11399.0
+50309,Pyuthan,Sarumarani Rural Municipality,Rural Municipality,Hill,18627.0,19783.0,3484.0,4453.0,8309.0,8832.0,10318.0,10951.0
+50401,Gulmi,Kali Gandaki Rural Municipality,Rural Municipality,Hill,18876.0,15044.0,4098.0,3736.0,8275.0,7074.0,10601.0,7970.0
+50402,Gulmi,Satyawoti Rural Municipality,Rural Municipality,Hill,23807.0,19473.0,5526.0,5169.0,10162.0,8793.0,13645.0,10680.0
+50403,Gulmi,Chandrakot Rural Municipality,Rural Municipality,Hill,21827.0,18662.0,5121.0,5029.0,9395.0,8471.0,12432.0,10191.0
+50404,Gulmi,Musikot Urban Municipality,Urban Municipality,Hill,32802.0,28454.0,7075.0,7099.0,14209.0,13096.0,18593.0,15358.0
+50405,Gulmi,Isma Rural Municipality,Rural Municipality,Hill,20964.0,18529.0,4716.0,5009.0,8908.0,8409.0,12056.0,10120.0
+50406,Gulmi,Malika Rural Municipality,Rural Municipality,Hill,21729.0,20075.0,4550.0,5241.0,9602.0,9188.0,12127.0,10887.0
+50407,Gulmi,Madane Rural Municipality,Rural Municipality,Hill,21899.0,20022.0,4857.0,5253.0,9605.0,8973.0,12294.0,11049.0
+50408,Gulmi,Dhurkot Rural Municipality,Rural Municipality,Hill,22454.0,18814.0,5307.0,5382.0,9607.0,8312.0,12847.0,10502.0
+50409,Gulmi,Resunga Urban Municipality,Urban Municipality,Hill,32548.0,31551.0,8353.0,9015.0,14354.0,14550.0,18194.0,17001.0
+50410,Gulmi,Gulmi Durbar Rural Municipality,Rural Municipality,Hill,22037.0,19296.0,5266.0,5253.0,9124.0,8406.0,12913.0,10890.0
+50411,Gulmi,Chhatrakot Rural Municipality,Rural Municipality,Hill,21481.0,19357.0,5315.0,5307.0,8846.0,8617.0,12635.0,10740.0
+50412,Gulmi,Ruruchhetra Rural Municipality,Rural Municipality,Hill,18581.0,16597.0,4703.0,4607.0,7892.0,7607.0,10689.0,8990.0
+50501,Arghakhanchi,Chhatradev Rural Municipality,Rural Municipality,Hill,25335.0,21611.0,6341.0,6228.0,10371.0,9495.0,14964.0,12116.0
+50502,Arghakhanchi,Malarani Rural Municipality,Rural Municipality,Hill,28044.0,24150.0,6824.0,6780.0,11869.0,10769.0,16175.0,13381.0
+50503,Arghakhanchi,Bhumikasthan Urban Municipality,Urban Municipality,Hill,32640.0,28192.0,7727.0,7760.0,13935.0,12552.0,18705.0,15640.0
+50504,Arghakhanchi,Sandhikharka Urban Municipality,Urban Municipality,Hill,41079.0,42492.0,10581.0,12070.0,18262.0,19490.0,22817.0,23002.0
+50505,Arghakhanchi,Panini Rural Municipality,Rural Municipality,Hill,26424.0,22291.0,6152.0,6161.0,11144.0,10000.0,15280.0,12291.0
+50506,Arghakhanchi,Shitaganga Urban Municipality,Urban Municipality,Hill,43373.0,37691.0,9201.0,9450.0,19969.0,17749.0,23404.0,19942.0
+50601,Palpa,Rampur Urban Municipality,Urban Municipality,Hill,35396.0,40883.0,8132.0,11363.0,15438.0,18497.0,19958.0,22386.0
+50602,Palpa,Purbakhola Rural Municipality,Rural Municipality,Hill,19589.0,16052.0,4085.0,4121.0,8563.0,7093.0,11026.0,8959.0
+50603,Palpa,Rambha Rural Municipality,Rural Municipality,Hill,20190.0,17155.0,4626.0,4689.0,8452.0,7525.0,11738.0,9630.0
+50604,Palpa,Baganaskali Rural Municipality,Rural Municipality,Hill,21361.0,18497.0,5270.0,5115.0,9010.0,8396.0,12351.0,10101.0
+50605,Palpa,Tansen Urban Municipality,Urban Municipality,Hill,50405.0,50792.0,13646.0,14782.0,22816.0,23414.0,27589.0,27378.0
+50606,Palpa,Ribdikot Rural Municipality,Rural Municipality,Hill,18770.0,15473.0,4647.0,4402.0,7980.0,7026.0,10790.0,8447.0
+50607,Palpa,Rainadevi Chhahara Rural Municipality,Rural Municipality,Hill,26469.0,23149.0,6009.0,6330.0,11659.0,10511.0,14810.0,12638.0
+50608,Palpa,Tinau Rural Municipality,Rural Municipality,Hill,19085.0,17777.0,3888.0,4201.0,8814.0,8451.0,10271.0,9326.0
+50609,Palpa,Mathagadhi Rural Municipality,Rural Municipality,Hill,25017.0,24053.0,5066.0,5823.0,11116.0,11184.0,13901.0,12869.0
+50610,Palpa,Nisdi Rural Municipality,Rural Municipality,Hill,22611.0,18120.0,3891.0,4165.0,10215.0,8345.0,12396.0,9775.0
+50701,Nawalparasi West,Bardaghat Urban Municipality,Urban Municipality,Tarai,61472.0,76703.0,13415.0,18501.0,28137.0,35675.0,33335.0,41028.0
+50702,Nawalparasi West,Sunawal Urban Municipality,Urban Municipality,Tarai,55790.0,72085.0,12018.0,17418.0,25585.0,33793.0,30205.0,38292.0
+50703,Nawalparasi West,Ramgram Urban Municipality,Urban Municipality,Tarai,56845.0,64017.0,10282.0,13137.0,27852.0,31656.0,28993.0,32361.0
+50704,Nawalparasi West,Palhinandan Rural Municipality,Rural Municipality,Tarai,35429.0,38186.0,5881.0,7180.0,17311.0,19016.0,18118.0,19170.0
+50705,Nawalparasi West,Sarawal Rural Municipality,Rural Municipality,Tarai,37418.0,42207.0,6633.0,8745.0,18327.0,20537.0,19091.0,21670.0
+50706,Nawalparasi West,Pratapapur Rural Municipality,Rural Municipality,Tarai,45241.0,49897.0,7386.0,9702.0,22787.0,24812.0,22454.0,25085.0
+50707,Nawalparasi West,Susta Rural Municipality,Rural Municipality,Tarai,35890.0,40655.0,6230.0,8026.0,17455.0,19704.0,18435.0,20951.0
+50801,Rupandehi,Devdaha Urban Municipality,Urban Municipality,Tarai,53523.0,72457.0,11410.0,17300.0,24841.0,34033.0,28682.0,38424.0
+50802,Rupandehi,Butwal Sub-Metropolitan City,Sub-Metropolitan,Tarai,138742.0,194335.0,34097.0,50565.0,68288.0,94849.0,70454.0,99486.0
+50803,Rupandehi,Sainamaina Urban Municipality,Urban Municipality,Tarai,55822.0,78393.0,12392.0,19445.0,25528.0,36441.0,30294.0,41952.0
+50804,Rupandehi,Kanchan Rural Municipality,Rural Municipality,Tarai,33072.0,42528.0,7084.0,10440.0,14865.0,19408.0,18207.0,23120.0
+50805,Rupandehi,Gaidahawa Rural Municipality,Rural Municipality,Tarai,47565.0,56149.0,7285.0,9947.0,23730.0,27847.0,23835.0,28302.0
+50806,Rupandehi,Suddhodhan Rural Municipality,Rural Municipality,Tarai,34638.0,41907.0,6145.0,8676.0,16652.0,20570.0,17986.0,21337.0
+50807,Rupandehi,Siyari Rural Municipality,Rural Municipality,Tarai,38466.0,44985.0,6792.0,9019.0,18549.0,22022.0,19917.0,22963.0
+50808,Rupandehi,Tilottama Urban Municipality,Urban Municipality,Tarai,100149.0,149479.0,21957.0,35991.0,47178.0,71526.0,52971.0,77953.0
+50809,Rupandehi,Om Satiya Rural Municipality,Rural Municipality,Tarai,34191.0,41141.0,5787.0,8082.0,16849.0,20452.0,17342.0,20689.0
+50810,Rupandehi,Rohini Rural Municipality,Rural Municipality,Tarai,37175.0,43327.0,5657.0,7526.0,18645.0,21865.0,18530.0,21462.0
+50811,Rupandehi,Siddharthanagar Urban Municipality,Urban Municipality,Tarai,63483.0,74436.0,12497.0,15871.0,31673.0,37249.0,31810.0,37187.0
+50812,Rupandehi,Mayadevi Rural Municipality,Rural Municipality,Tarai,47156.0,56170.0,6810.0,9990.0,23778.0,28355.0,23378.0,27815.0
+50813,Rupandehi,Lumbini Sanskritik Urban Municipality,Urban Municipality,Tarai,72497.0,87383.0,9946.0,13621.0,36137.0,43164.0,36360.0,44219.0
+50814,Rupandehi,Kotahimai Rural Municipality,Rural Municipality,Tarai,41006.0,45975.0,5593.0,7535.0,21074.0,23139.0,19932.0,22836.0
+50815,Rupandehi,Sammarimai Rural Municipality,Rural Municipality,Tarai,38305.0,43044.0,5120.0,7242.0,19535.0,21511.0,18770.0,21533.0
+50816,Rupandehi,Marchawari Rural Municipality,Rural Municipality,Tarai,38776.0,40880.0,5263.0,6921.0,20039.0,20499.0,18737.0,20381.0
+50901,Kapilbastu,Banganga Urban Municipality,Urban Municipality,Tarai,75242.0,96714.0,15965.0,23325.0,34933.0,45407.0,40309.0,51307.0
+50902,Kapilbastu,Buddhabhumi Urban Municipality,Urban Municipality,Tarai,64949.0,76507.0,11521.0,15379.0,31583.0,36951.0,33366.0,39556.0
+50903,Kapilbastu,Shivaraj Urban Municipality,Urban Municipality,Tarai,66781.0,84810.0,11250.0,16241.0,33161.0,41328.0,33620.0,43482.0
+50904,Kapilbastu,Bijayanagar Rural Municipality,Rural Municipality,Tarai,36937.0,43291.0,5670.0,7059.0,18831.0,21410.0,18106.0,21881.0
+50905,Kapilbastu,Krishnanagar Urban Municipality,Urban Municipality,Tarai,62360.0,70111.0,8521.0,10670.0,32299.0,35121.0,30061.0,34990.0
+50906,Kapilbastu,Maharajganj Urban Municipality,Urban Municipality,Tarai,54800.0,64645.0,7977.0,9820.0,28122.0,32536.0,26678.0,32109.0
+50907,Kapilbastu,Kapilbastu Urban Municipality,Urban Municipality,Tarai,76394.0,88874.0,12094.0,15382.0,38085.0,43998.0,38309.0,44876.0
+50908,Kapilbastu,Yasodhara Rural Municipality,Rural Municipality,Tarai,38952.0,44900.0,5413.0,6999.0,19694.0,21810.0,19258.0,23090.0
+50909,Kapilbastu,Mayadevi Rural Municipality,Rural Municipality,Tarai,48218.0,55972.0,6507.0,8443.0,24198.0,27124.0,24020.0,28848.0
+50910,Kapilbastu,Shuddhodhan Rural Municipality,Rural Municipality,Tarai,45201.0,52861.0,6346.0,8543.0,22733.0,25961.0,22468.0,26900.0
+51001,Dang,Bangalachuli Rural Municipality,Rural Municipality,Tarai,24245.0,22373.0,4730.0,5139.0,10879.0,9832.0,13366.0,12541.0
+51002,Dang,Ghorahi Sub-Metropolitan City,Sub-Metropolitan,Tarai,156164.0,200530.0,35419.0,49761.0,72329.0,93806.0,83835.0,106724.0
+51003,Dang,Tulsipur Sub-Metropolitan City,Sub-Metropolitan,Tarai,141528.0,179755.0,31243.0,46018.0,66675.0,84764.0,74853.0,94991.0
+51004,Dang,Shantinagar Rural Municipality,Rural Municipality,Tarai,25203.0,27641.0,5328.0,6919.0,11595.0,12801.0,13608.0,14840.0
+51005,Dang,Babai Rural Municipality,Rural Municipality,Tarai,27469.0,30968.0,5945.0,7527.0,12529.0,14446.0,14940.0,16522.0
+51006,Dang,Dangisharan Rural Municipality,Rural Municipality,Tarai,21484.0,23668.0,4455.0,5825.0,9983.0,11197.0,11501.0,12471.0
+51007,Dang,Lamahi Urban Municipality,Urban Municipality,Tarai,47655.0,59050.0,9432.0,13458.0,22898.0,28501.0,24757.0,30549.0
+51008,Dang,Rapti Rural Municipality,Rural Municipality,Tarai,40764.0,52123.0,8055.0,11826.0,19463.0,24817.0,21301.0,27306.0
+51009,Dang,Gadhawa Rural Municipality,Rural Municipality,Tarai,38592.0,45898.0,7267.0,9964.0,18489.0,22308.0,20103.0,23590.0
+51010,Dang,Rajpur Rural Municipality,Rural Municipality,Tarai,25037.0,28346.0,4473.0,5829.0,12251.0,14058.0,12786.0,14288.0
+51101,Banke,Rapti Sonari Rural Municipality,Rural Municipality,Tarai,59946.0,66445.0,10742.0,14946.0,28617.0,31327.0,31329.0,35118.0
+51102,Banke,Kohalpur Urban Municipality,Urban Municipality,Tarai,70647.0,101667.0,15483.0,24183.0,34112.0,48968.0,36535.0,52699.0
+51103,Banke,Baijanath Rural Municipality,Rural Municipality,Tarai,54418.0,69472.0,11066.0,16469.0,25372.0,32073.0,29046.0,37399.0
+51104,Banke,Khajura Rural Municipality,Rural Municipality,Tarai,50961.0,62789.0,10288.0,13706.0,23504.0,29579.0,27457.0,33210.0
+51105,Banke,Janaki Rural Municipality,Rural Municipality,Tarai,37839.0,46141.0,6724.0,8826.0,19433.0,23306.0,18406.0,22835.0
+51106,Banke,Nepalganj Sub-Metropolitan City,Sub-Metropolitan,Tarai,138951.0,164444.0,27892.0,34565.0,70877.0,82755.0,68074.0,81689.0
+51107,Banke,Duduwa Rural Municipality,Rural Municipality,Tarai,37460.0,43135.0,6590.0,8051.0,19277.0,21832.0,18183.0,21303.0
+51108,Banke,Narainapur Rural Municipality,Rural Municipality,Tarai,34942.0,43206.0,5908.0,8488.0,17978.0,21732.0,16964.0,21474.0
+51201,Bardiya,Bansgadhi Urban Municipality,Urban Municipality,Tarai,55875.0,63252.0,11210.0,15091.0,26302.0,29307.0,29573.0,33945.0
+51202,Bardiya,Barbardiya Urban Municipality,Urban Municipality,Tarai,68012.0,72533.0,13268.0,16897.0,32673.0,34126.0,35339.0,38407.0
+51203,Bardiya,Thakurbaba Urban Municipality,Urban Municipality,Tarai,44316.0,49420.0,8652.0,11469.0,20764.0,22870.0,23552.0,26550.0
+51204,Bardiya,Geruwa Rural Municipality,Rural Municipality,Tarai,34871.0,33514.0,6135.0,7762.0,16434.0,15363.0,18437.0,18151.0
+51205,Bardiya,Rajapur Urban Municipality,Urban Municipality,Tarai,59553.0,60831.0,10916.0,13659.0,28921.0,28607.0,30632.0,32224.0
+51206,Bardiya,Madhuwan Urban Municipality,Urban Municipality,Tarai,46437.0,50739.0,9569.0,12444.0,21503.0,23310.0,24934.0,27429.0
+51207,Bardiya,Gulariya Urban Municipality,Urban Municipality,Tarai,66679.0,74505.0,13064.0,16002.0,33427.0,36727.0,33252.0,37778.0
+51208,Bardiya,Badhaiyatal Rural Municipality,Rural Municipality,Tarai,47868.0,52818.0,10333.0,12961.0,22296.0,24384.0,25572.0,28434.0
+60101,Dolpa,Dolpo Buddha Rural Municipality,Rural Municipality,Mountain,2126.0,2420.0,468.0,543.0,969.0,1148.0,1157.0,1272.0
+60102,Dolpa,Shey Phoksundo Rural Municipality,Rural Municipality,Mountain,3099.0,3635.0,730.0,861.0,1512.0,1779.0,1587.0,1856.0
+60103,Dolpa,Jagadulla Rural Municipality,Rural Municipality,Mountain,2273.0,2575.0,433.0,601.0,1101.0,1260.0,1172.0,1315.0
+60104,Dolpa,Mudkechula Rural Municipality,Rural Municipality,Mountain,5129.0,5803.0,926.0,1190.0,2596.0,2918.0,2533.0,2885.0
+60105,Dolpa,Tripurasundari Urban Municipality,Urban Municipality,Mountain,10104.0,12233.0,1944.0,2622.0,4966.0,6080.0,5138.0,6153.0
+60106,Dolpa,Thulibheri Urban Municipality,Urban Municipality,Mountain,8370.0,9861.0,1903.0,2327.0,4196.0,4947.0,4174.0,4914.0
+60107,Dolpa,Kaike Rural Municipality,Rural Municipality,Mountain,3576.0,3965.0,780.0,916.0,1657.0,1852.0,1919.0,2113.0
+60108,Dolpa,Chharka Tangsong Rural Municipality,Rural Municipality,Mountain,1451.0,1672.0,282.0,320.0,684.0,819.0,767.0,853.0
+60201,Mugu,Mugumakarmarog Rural Municipality,Rural Municipality,Mountain,5396.0,6222.0,1029.0,1372.0,2598.0,2963.0,2798.0,3259.0
+60202,Mugu,Chhayanath Rara Urban Municipality,Urban Municipality,Mountain,20082.0,24527.0,3641.0,4952.0,10247.0,12390.0,9835.0,12137.0
+60203,Mugu,Soru Rural Municipality,Rural Municipality,Mountain,12238.0,14277.0,2109.0,2581.0,6115.0,7029.0,6123.0,7248.0
+60204,Mugu,Khatyad Rural Municipality,Rural Municipality,Mountain,17116.0,18832.0,2821.0,3525.0,8629.0,9513.0,8487.0,9319.0
+60301,Humla,Chankheli Rural Municipality,Rural Municipality,Mountain,5517.0,6579.0,963.0,1193.0,2788.0,3290.0,2729.0,3289.0
+60302,Humla,Kharpunath Rural Municipality,Rural Municipality,Mountain,6011.0,6736.0,1132.0,1437.0,2967.0,3326.0,3044.0,3410.0
+60303,Humla,Simkot Rural Municipality,Rural Municipality,Mountain,11557.0,11935.0,2566.0,2882.0,5968.0,6047.0,5589.0,5888.0
+60304,Humla,Namkha Rural Municipality,Rural Municipality,Mountain,3900.0,3589.0,835.0,849.0,1886.0,1750.0,2014.0,1839.0
+60305,Humla,Sarkegad Rural Municipality,Rural Municipality,Mountain,9868.0,10688.0,1794.0,2205.0,4977.0,5363.0,4891.0,5325.0
+60306,Humla,Adanchuli Rural Municipality,Rural Municipality,Mountain,7116.0,8265.0,1121.0,1480.0,3543.0,4038.0,3573.0,4227.0
+60307,Humla,Tanjakot Rural Municipality,Rural Municipality,Mountain,5964.0,6092.0,1026.0,1158.0,2948.0,3005.0,3016.0,3087.0
+60401,Jumla,Patarasi Rural Municipality,Rural Municipality,Mountain,14571.0,16824.0,2537.0,3342.0,7288.0,8256.0,7283.0,8568.0
+60402,Jumla,Kanaka Sundari Rural Municipality,Rural Municipality,Mountain,13216.0,13625.0,2247.0,2754.0,6590.0,6734.0,6626.0,6891.0
+60403,Jumla,Sinja Rural Municipality,Rural Municipality,Mountain,11993.0,12556.0,1996.0,2354.0,6046.0,6413.0,5947.0,6143.0
+60404,Jumla,Chandannath Urban Municipality,Urban Municipality,Mountain,19047.0,21036.0,3996.0,5367.0,9369.0,10399.0,9678.0,10637.0
+60405,Jumla,Guthichaur Rural Municipality,Rural Municipality,Mountain,9870.0,10922.0,1848.0,2444.0,4867.0,5381.0,5003.0,5541.0
+60406,Jumla,Tatopani Rural Municipality,Rural Municipality,Mountain,14638.0,15575.0,2704.0,3318.0,7347.0,7699.0,7291.0,7876.0
+60407,Jumla,Tila Rural Municipality,Rural Municipality,Mountain,13607.0,14539.0,2250.0,2667.0,6866.0,7202.0,6741.0,7337.0
+60408,Jumla,Hima Rural Municipality,Rural Municipality,Mountain,10553.0,12191.0,1713.0,2176.0,5223.0,6154.0,5330.0,6037.0
+60501,Kalikot,Palata Rural Municipality,Rural Municipality,Mountain,15303.0,17346.0,2421.0,2834.0,7763.0,8808.0,7540.0,8538.0
+60502,Kalikot,Pachal Jharana Rural Municipality,Rural Municipality,Mountain,12343.0,13687.0,2002.0,2398.0,6260.0,6900.0,6083.0,6787.0
+60503,Kalikot,Raskot Urban Municipality,Urban Municipality,Mountain,16272.0,17425.0,2685.0,3194.0,8076.0,8544.0,8196.0,8881.0
+60504,Kalikot,Sanni Tribeni Rural Municipality,Rural Municipality,Mountain,12846.0,13491.0,2105.0,2422.0,6378.0,6588.0,6468.0,6903.0
+60505,Kalikot,Naraharinath Rural Municipality,Rural Municipality,Mountain,21366.0,22458.0,3585.0,4290.0,10603.0,11058.0,10763.0,11400.0
+60506,Kalikot,Khandachakra Urban Municipality,Urban Municipality,Mountain,20288.0,22274.0,3612.0,4101.0,10334.0,11212.0,9954.0,11062.0
+60507,Kalikot,Tilagupha Urban Municipality,Urban Municipality,Mountain,15766.0,16197.0,2693.0,3154.0,7854.0,8004.0,7912.0,8193.0
+60508,Kalikot,Mahawai Rural Municipality,Rural Municipality,Mountain,8323.0,8177.0,1447.0,1615.0,4195.0,4049.0,4128.0,4128.0
+60509,Kalikot,Shuva Kalika Rural Municipality,Rural Municipality,Mountain,14080.0,13773.0,2458.0,2762.0,7026.0,6634.0,7054.0,7139.0
+60601,Dailekh,Naumule Rural Municipality,Rural Municipality,Hill,20802.0,19687.0,3708.0,4223.0,10045.0,9491.0,10757.0,10196.0
+60602,Dailekh,Mahabu Rural Municipality,Rural Municipality,Hill,19277.0,18059.0,3553.0,3968.0,8933.0,8262.0,10344.0,9797.0
+60603,Dailekh,Bhairabi Rural Municipality,Rural Municipality,Hill,21233.0,18767.0,3976.0,4269.0,10440.0,8584.0,10793.0,10183.0
+60604,Dailekh,Thantikandh Rural Municipality,Rural Municipality,Hill,18896.0,18301.0,3327.0,3840.0,9389.0,8930.0,9507.0,9371.0
+60605,Dailekh,Aathbis Urban Municipality,Urban Municipality,Hill,29227.0,31092.0,5263.0,6134.0,14484.0,15250.0,14743.0,15842.0
+60606,Dailekh,Chamunda Bindrasaini Urban Municipality,Urban Municipality,Hill,26149.0,26559.0,4634.0,5113.0,13060.0,13021.0,13089.0,13538.0
+60607,Dailekh,Dullu Urban Municipality,Urban Municipality,Hill,41540.0,39143.0,8164.0,9053.0,19881.0,18105.0,21659.0,21038.0
+60608,Dailekh,Narayan Urban Municipality,Urban Municipality,Hill,27037.0,26111.0,5791.0,6504.0,12645.0,12205.0,14392.0,13906.0
+60609,Dailekh,Bhagawatimai Rural Municipality,Rural Municipality,Hill,18778.0,18206.0,3359.0,3550.0,8996.0,9017.0,9782.0,9189.0
+60610,Dailekh,Dungeshwor Rural Municipality,Rural Municipality,Hill,15883.0,14533.0,3044.0,3399.0,7553.0,6890.0,8330.0,7643.0
+60611,Dailekh,Gurans Rural Municipality,Rural Municipality,Hill,22033.0,21189.0,4096.0,4541.0,10675.0,10402.0,11358.0,10787.0
+60701,Jajarkot,Barekot Rural Municipality,Rural Municipality,Hill,18083.0,22005.0,3093.0,3887.0,9121.0,11035.0,8962.0,10970.0
+60702,Jajarkot,Kushe Rural Municipality,Rural Municipality,Hill,20621.0,23058.0,3590.0,4401.0,10407.0,11503.0,10214.0,11555.0
+60703,Jajarkot,Junichande Rural Municipality,Rural Municipality,Hill,21733.0,23771.0,3774.0,4296.0,10740.0,11835.0,10993.0,11936.0
+60704,Jajarkot,Chhedagad Urban Municipality,Urban Municipality,Hill,35295.0,37877.0,6144.0,7197.0,17354.0,18698.0,17941.0,19179.0
+60705,Jajarkot,Shivalaya Rural Municipality,Rural Municipality,Hill,15269.0,14776.0,2556.0,2806.0,7543.0,7298.0,7726.0,7478.0
+60706,Jajarkot,Bheri Malika Urban Municipality,Urban Municipality,Hill,33515.0,37892.0,6590.0,8874.0,16458.0,18376.0,17057.0,19516.0
+60707,Jajarkot,Nalgad Urban Municipality,Urban Municipality,Hill,25590.0,28922.0,4721.0,5992.0,12741.0,14366.0,12849.0,14556.0
+60801,Rukum West,Aathabisakot Urban Municipality,Urban Municipality,Hill,33601.0,35917.0,6421.0,7553.0,16623.0,17618.0,16978.0,18299.0
+60802,Rukum West,Sanibheri Rural Municipality,Rural Municipality,Hill,22194.0,24759.0,4129.0,5292.0,10533.0,12014.0,11661.0,12745.0
+60803,Rukum West,Banphikot Rural Municipality,Rural Municipality,Hill,18696.0,21033.0,3747.0,4607.0,8713.0,10174.0,9983.0,10859.0
+60804,Rukum West,Musikot Urban Municipality,Urban Municipality,Hill,32939.0,34270.0,7307.0,8693.0,15416.0,16250.0,17523.0,18020.0
+60805,Rukum West,Tribeni Rural Municipality,Rural Municipality,Hill,19404.0,20525.0,3609.0,4308.0,8839.0,9821.0,10565.0,10704.0
+60806,Rukum West,Chaurjahari Urban Municipality,Urban Municipality,Hill,27438.0,28956.0,5422.0,6837.0,12995.0,14009.0,14443.0,14947.0
+60901,Salyan,Darma Rural Municipality,Rural Municipality,Hill,19966.0,20139.0,3460.0,4264.0,9746.0,9755.0,10220.0,10384.0
+60902,Salyan,Kumakh Rural Municipality,Rural Municipality,Hill,24972.0,24859.0,4745.0,5491.0,11928.0,12094.0,13044.0,12765.0
+60903,Salyan,Banagad Kupinde Urban Municipality,Urban Municipality,Hill,36052.0,32940.0,6763.0,7428.0,17382.0,15738.0,18670.0,17202.0
+60904,Salyan,Siddha Kumakh Rural Municipality,Rural Municipality,Hill,13593.0,13127.0,2404.0,2898.0,6504.0,6258.0,7089.0,6869.0
+60905,Salyan,Bagachour Urban Municipality,Urban Municipality,Hill,34118.0,34021.0,5906.0,7498.0,16526.0,16474.0,17592.0,17547.0
+60906,Salyan,Chhatreshwori Rural Municipality,Rural Municipality,Hill,21452.0,21242.0,4408.0,5139.0,9762.0,10019.0,11690.0,11223.0
+60907,Salyan,Sharada Urban Municipality,Urban Municipality,Hill,33730.0,34663.0,7391.0,8898.0,15661.0,16388.0,18069.0,18275.0
+60908,Salyan,Kalimati Rural Municipality,Rural Municipality,Hill,23005.0,22206.0,4343.0,4972.0,11300.0,10941.0,11705.0,11265.0
+60909,Salyan,Tribeni Rural Municipality,Rural Municipality,Hill,16624.0,16664.0,3447.0,4110.0,7726.0,7918.0,8898.0,8746.0
+60910,Salyan,Kapurkot Rural Municipality,Rural Municipality,Hill,18204.0,17526.0,3657.0,3974.0,8718.0,8369.0,9486.0,9157.0
+61001,Surkhet,Simta Rural Municipality,Rural Municipality,Hill,25845.0,24083.0,5094.0,6062.0,11843.0,10620.0,14002.0,13463.0
+61002,Surkhet,Chingad Rural Municipality,Rural Municipality,Hill,17275.0,15600.0,2923.0,3297.0,8287.0,7367.0,8988.0,8233.0
+61003,Surkhet,Lekabeshi Urban Municipality,Urban Municipality,Hill,30295.0,31710.0,6346.0,7441.0,14122.0,14877.0,16173.0,16833.0
+61004,Surkhet,Gurbhakot Urban Municipality,Urban Municipality,Hill,43765.0,48216.0,9572.0,11798.0,19882.0,22183.0,23883.0,26033.0
+61005,Surkhet,Bheriganga Urban Municipality,Urban Municipality,Hill,41407.0,48203.0,8825.0,11539.0,19145.0,22538.0,22262.0,25665.0
+61006,Surkhet,Birendranagar Urban Municipality,Urban Municipality,Hill,100458.0,153863.0,23710.0,38377.0,48771.0,75129.0,51687.0,78734.0
+61007,Surkhet,Barahatal Rural Municipality,Rural Municipality,Hill,26802.0,25943.0,5448.0,6169.0,12986.0,12465.0,13816.0,13478.0
+61008,Surkhet,Panchapuri Urban Municipality,Urban Municipality,Hill,32231.0,35839.0,6304.0,7803.0,15422.0,17230.0,16809.0,18609.0
+61009,Surkhet,Chaukune Rural Municipality,Rural Municipality,Hill,25240.0,26950.0,4608.0,5336.0,12214.0,13236.0,13026.0,13714.0
+70101,Bajura,Himali Rural Municipality,Rural Municipality,Mountain,9214.0,10309.0,1722.0,1998.0,4625.0,5095.0,4589.0,5214.0
+70102,Bajura,Gaumul Rural Municipality,Rural Municipality,Mountain,8515.0,8913.0,1560.0,1716.0,4166.0,4304.0,4349.0,4609.0
+70103,Bajura,Budhinanda Urban Municipality,Urban Municipality,Mountain,18776.0,20072.0,3452.0,4150.0,9351.0,9779.0,9425.0,10293.0
+70104,Bajura,Swamikartik Khapar Rural Municipality,Rural Municipality,Mountain,12784.0,12576.0,2223.0,2362.0,6226.0,6145.0,6558.0,6431.0
+70105,Bajura,Jagannath Rural Municipality,Rural Municipality,Mountain,9432.0,10158.0,1684.0,1939.0,4651.0,4868.0,4781.0,5290.0
+70106,Bajura,Badimalika Urban Municipality,Urban Municipality,Mountain,16818.0,18414.0,3446.0,4046.0,8656.0,9249.0,8162.0,9165.0
+70107,Bajura,Khaptad Chhededaha Rural Municipality,Rural Municipality,Mountain,18575.0,19307.0,3174.0,3574.0,8797.0,9429.0,9778.0,9878.0
+70108,Bajura,Budhiganga Urban Municipality,Urban Municipality,Mountain,21677.0,20185.0,4277.0,4554.0,9975.0,9254.0,11702.0,10931.0
+70109,Bajura,Tribeni Urban Municipality,Urban Municipality,Mountain,18363.0,17798.0,3350.0,3702.0,8631.0,8202.0,9732.0,9596.0
+70201,Bajhang,Saipal Rural Municipality,Rural Municipality,Mountain,2182.0,2625.0,363.0,447.0,1106.0,1292.0,1076.0,1333.0
+70202,Bajhang,Bungal Urban Municipality,Urban Municipality,Mountain,33224.0,33812.0,5480.0,6372.0,16216.0,16037.0,17008.0,17775.0
+70203,Bajhang,Surma Rural Municipality,Rural Municipality,Mountain,9022.0,11082.0,1418.0,1823.0,4547.0,5509.0,4475.0,5573.0
+70204,Bajhang,Talkot Rural Municipality,Rural Municipality,Mountain,11557.0,11719.0,2000.0,2244.0,5541.0,5462.0,6016.0,6257.0
+70205,Bajhang,Masta Rural Municipality,Rural Municipality,Mountain,14951.0,13265.0,2456.0,2545.0,7111.0,6115.0,7840.0,7150.0
+70206,Bajhang,Jayaprithbi Urban Municipality,Urban Municipality,Mountain,22191.0,21933.0,4015.0,5002.0,10655.0,10443.0,11536.0,11490.0
+70207,Bajhang,Chhabis Pathibhara Rural Municipality,Rural Municipality,Mountain,16296.0,14474.0,2953.0,3070.0,7679.0,6745.0,8617.0,7729.0
+70208,Bajhang,Durgathali Rural Municipality,Rural Municipality,Mountain,12972.0,11318.0,2447.0,2592.0,5915.0,5109.0,7057.0,6209.0
+70209,Bajhang,Kedarsyun Rural Municipality,Rural Municipality,Mountain,21307.0,21312.0,3586.0,4296.0,10046.0,9856.0,11261.0,11456.0
+70210,Bajhang,Bitthadchir Rural Municipality,Rural Municipality,Mountain,17154.0,17812.0,2739.0,3116.0,8118.0,8434.0,9036.0,9378.0
+70211,Bajhang,Thalara Rural Municipality,Rural Municipality,Mountain,17952.0,15958.0,3211.0,3416.0,8261.0,7101.0,9691.0,8857.0
+70212,Bajhang,Khaptad Chhanna Rural Municipality,Rural Municipality,Mountain,15893.0,13419.0,3105.0,3102.0,7150.0,6029.0,8743.0,7390.0
+70301,Darchula,Byas Rural Municipality,Rural Municipality,Mountain,10347.0,9668.0,1919.0,2143.0,4865.0,4578.0,5482.0,5090.0
+70302,Darchula,Duhun Rural Municipality,Rural Municipality,Mountain,10818.0,9842.0,1982.0,2196.0,5102.0,4547.0,5716.0,5295.0
+70303,Darchula,Mahakali Urban Municipality,Urban Municipality,Mountain,21231.0,24081.0,4526.0,5982.0,10162.0,11457.0,11069.0,12624.0
+70304,Darchula,Naugad Rural Municipality,Rural Municipality,Mountain,15874.0,15528.0,2616.0,2975.0,7624.0,7498.0,8250.0,8030.0
+70305,Darchula,Apihimal Rural Municipality,Rural Municipality,Mountain,6779.0,6798.0,1085.0,1355.0,3379.0,3386.0,3400.0,3412.0
+70306,Darchula,Marma Rural Municipality,Rural Municipality,Mountain,14956.0,15124.0,2508.0,3025.0,7268.0,7232.0,7688.0,7892.0
+70307,Darchula,Shailyashikhar Urban Municipality,Urban Municipality,Mountain,22060.0,21807.0,4021.0,4501.0,10471.0,10565.0,11589.0,11242.0
+70308,Darchula,Malikarjun Rural Municipality,Rural Municipality,Mountain,15581.0,15635.0,3096.0,3174.0,7239.0,7581.0,8342.0,8054.0
+70309,Darchula,Lekam Rural Municipality,Rural Municipality,Mountain,14838.0,13743.0,2851.0,3030.0,6754.0,6530.0,8084.0,7213.0
+70401,Baitadi,Dilasaini Rural Municipality,Rural Municipality,Hill,22924.0,22966.0,4110.0,4509.0,10990.0,11135.0,11934.0,11831.0
+70402,Baitadi,Dogada Kedar Rural Municipality,Rural Municipality,Hill,24632.0,23104.0,4559.0,4672.0,11220.0,10827.0,13412.0,12277.0
+70403,Baitadi,Puchaundi Urban Municipality,Urban Municipality,Hill,39174.0,38281.0,6390.0,7145.0,19023.0,18430.0,20151.0,19851.0
+70404,Baitadi,Surnaya Rural Municipality,Rural Municipality,Hill,18549.0,17945.0,3321.0,3783.0,8471.0,8285.0,10078.0,9660.0
+70405,Baitadi,Dasharathchand Urban Municipality,Urban Municipality,Hill,34575.0,31567.0,7257.0,7198.0,15714.0,14615.0,18861.0,16952.0
+70406,Baitadi,Pancheshwor Rural Municipality,Rural Municipality,Hill,18766.0,17796.0,3312.0,3574.0,8484.0,8160.0,10282.0,9636.0
+70407,Baitadi,Shivanath Rural Municipality,Rural Municipality,Hill,17115.0,18064.0,2771.0,3434.0,8065.0,8299.0,9050.0,9765.0
+70408,Baitadi,Melauli Urban Municipality,Urban Municipality,Hill,22545.0,20658.0,3947.0,4536.0,10434.0,9501.0,12111.0,11157.0
+70409,Baitadi,Patan Urban Municipality,Urban Municipality,Hill,30435.0,29230.0,5767.0,6442.0,13991.0,13558.0,16444.0,15672.0
+70410,Baitadi,Sigas Rural Municipality,Rural Municipality,Hill,21510.0,21814.0,3733.0,4114.0,10371.0,10350.0,11139.0,11464.0
+70501,Dadeldhura,Nawadurga Rural Municipality,Rural Municipality,Hill,19957.0,18672.0,4132.0,4318.0,8607.0,8196.0,11350.0,10476.0
+70502,Dadeldhura,Amargadhi Urban Municipality,Urban Municipality,Hill,21245.0,24149.0,4778.0,6182.0,10003.0,11810.0,11242.0,12339.0
+70503,Dadeldhura,Ajayameru Rural Municipality,Rural Municipality,Hill,17066.0,15161.0,3311.0,3453.0,7894.0,7021.0,9172.0,8140.0
+70504,Dadeldhura,Bhageshwor Rural Municipality,Rural Municipality,Hill,14129.0,13132.0,2462.0,2794.0,6728.0,6304.0,7401.0,6828.0
+70505,Dadeldhura,Parashuram Urban Municipality,Urban Municipality,Hill,34983.0,35590.0,5990.0,7434.0,16794.0,16741.0,18189.0,18849.0
+70506,Dadeldhura,Aalital Rural Municipality,Rural Municipality,Hill,18531.0,18112.0,3280.0,3710.0,8946.0,8756.0,9585.0,9356.0
+70507,Dadeldhura,Ganyapdhura Rural Municipality,Rural Municipality,Hill,15093.0,13722.0,3070.0,3281.0,6545.0,6064.0,8548.0,7658.0
+70601,Doti,Purbichouki Rural Municipality,Rural Municipality,Hill,22483.0,21494.0,4836.0,5148.0,9704.0,9238.0,12779.0,12256.0
+70602,Doti,Sayal Rural Municipality,Rural Municipality,Hill,19551.0,20456.0,3772.0,4207.0,8859.0,9206.0,10692.0,11250.0
+70603,Doti,Aadarsha Rural Municipality,Rural Municipality,Hill,23945.0,24495.0,4747.0,5317.0,10163.0,10400.0,13782.0,14095.0
+70604,Doti,Shikhar Urban Municipality,Urban Municipality,Hill,31801.0,30399.0,6665.0,7016.0,13420.0,13312.0,18381.0,17087.0
+70605,Doti,Dipayal Silgadhi Urban Municipality,Urban Municipality,Hill,32941.0,33968.0,7447.0,8385.0,15007.0,15469.0,17934.0,18499.0
+70606,Doti,K.I. Singh Rural Municipality,Rural Municipality,Hill,20903.0,20736.0,4259.0,4680.0,8993.0,8990.0,11910.0,11746.0
+70607,Doti,Bogatan Phudsil Rural Municipality,Rural Municipality,Hill,17902.0,15540.0,3130.0,3162.0,8480.0,7259.0,9422.0,8281.0
+70608,Doti,Badi Kedar Rural Municipality,Rural Municipality,Hill,16720.0,14902.0,2719.0,2905.0,8196.0,7377.0,8524.0,7525.0
+70609,Doti,Jorayal Rural Municipality,Rural Municipality,Hill,20824.0,19788.0,3808.0,4320.0,10156.0,9718.0,10668.0,10070.0
+70701,Achham,Panchdebal Binayak Urban Municipality,Urban Municipality,Hill,27485.0,26088.0,4966.0,5412.0,12859.0,11893.0,14626.0,14195.0
+70702,Achham,Ramaroshan Rural Municipality,Rural Municipality,Hill,25166.0,23600.0,4357.0,4832.0,12109.0,11085.0,13057.0,12515.0
+70703,Achham,Mellekh Rural Municipality,Rural Municipality,Hill,24670.0,22785.0,4360.0,4722.0,11537.0,10422.0,13133.0,12363.0
+70704,Achham,Sanphebagar Urban Municipality,Urban Municipality,Hill,33788.0,25891.0,6693.0,6311.0,15484.0,11789.0,18304.0,14102.0
+70705,Achham,Chaurpati Rural Municipality,Rural Municipality,Hill,25149.0,21681.0,5113.0,4811.0,11146.0,9484.0,14003.0,12197.0
+70706,Achham,Mangalsen Urban Municipality,Urban Municipality,Hill,32507.0,26557.0,6604.0,6222.0,14876.0,12082.0,17631.0,14475.0
+70707,Achham,Bannigadhi Jayagadh Rural Municipality,Rural Municipality,Hill,17359.0,13519.0,3373.0,3134.0,7496.0,5819.0,9863.0,7700.0
+70708,Achham,Kamal bazar Urban Municipality,Urban Municipality,Hill,23738.0,21032.0,4482.0,4569.0,11048.0,9454.0,12690.0,11578.0
+70709,Achham,Dhakari Rural Municipality,Rural Municipality,Hill,21562.0,21998.0,3795.0,4305.0,10381.0,10585.0,11181.0,11413.0
+70710,Achham,Turmakhand Rural Municipality,Rural Municipality,Hill,24764.0,24574.0,4575.0,5249.0,11839.0,11659.0,12925.0,12915.0
+70801,Kailali,Mohanyal Rural Municipality,Rural Municipality,Tarai,22053.0,21082.0,3969.0,4347.0,10914.0,10280.0,11139.0,10802.0
+70802,Kailali,Chure Rural Municipality,Rural Municipality,Tarai,18924.0,21400.0,3362.0,4239.0,9329.0,10729.0,9595.0,10671.0
+70803,Kailali,Godawari Urban Municipality,Urban Municipality,Tarai,78018.0,98746.0,14915.0,21250.0,36642.0,46692.0,41376.0,52054.0
+70804,Kailali,Gauriganga Urban Municipality,Urban Municipality,Tarai,55314.0,64558.0,10072.0,13781.0,26121.0,29691.0,29193.0,34867.0
+70805,Kailali,Ghodaghodi Urban Municipality,Urban Municipality,Tarai,75586.0,86034.0,13174.0,18383.0,36852.0,40175.0,38734.0,45859.0
+70806,Kailali,Bardagoriya Rural Municipality,Rural Municipality,Tarai,32683.0,37682.0,5703.0,7940.0,15653.0,17774.0,17030.0,19908.0
+70807,Kailali,Lamki Chuha Urban Municipality,Urban Municipality,Tarai,75425.0,90971.0,14757.0,20412.0,35408.0,42441.0,40017.0,48530.0
+70808,Kailali,Janaki Rural Municipality,Rural Municipality,Tarai,48540.0,49860.0,9051.0,11041.0,22956.0,23198.0,25584.0,26662.0
+70809,Kailali,Joshipur Rural Municipality,Rural Municipality,Tarai,36459.0,37187.0,6392.0,7751.0,17834.0,17754.0,18625.0,19433.0
+70810,Kailali,Tikapur Urban Municipality,Urban Municipality,Tarai,76084.0,89835.0,15356.0,20930.0,36245.0,42294.0,39839.0,47541.0
+70811,Kailali,Bhajani Urban Municipality,Urban Municipality,Tarai,51845.0,53494.0,8717.0,10845.0,25716.0,25611.0,26129.0,27883.0
+70812,Kailali,Kailari Rural Municipality,Rural Municipality,Tarai,47987.0,49917.0,7802.0,10174.0,23491.0,24080.0,24496.0,25837.0
+70813,Kailali,Dhangadhi Sub-Metropolitan City,Sub-Metropolitan,Tarai,147741.0,198792.0,29143.0,44779.0,73462.0,98184.0,74279.0,100608.0
+70901,Kanchanpur,Krishnapur Urban Municipality,Urban Municipality,Tarai,56643.0,71500.0,10016.0,15111.0,27059.0,33830.0,29584.0,37670.0
+70902,Kanchanpur,Shuklaphanta Urban Municipality,Urban Municipality,Tarai,46834.0,53969.0,8857.0,12058.0,21925.0,24584.0,24909.0,29385.0
+70903,Kanchanpur,Bedkot Urban Municipality,Urban Municipality,Tarai,49479.0,57680.0,9219.0,12595.0,23492.0,27033.0,25987.0,30647.0
+70904,Kanchanpur,Bhimdatta Urban Municipality,Urban Municipality,Tarai,104599.0,122320.0,20684.0,27570.0,51087.0,58232.0,53512.0,64088.0
+70905,Kanchanpur,Mahakali Urban Municipality,Urban Municipality,Tarai,39253.0,42974.0,7392.0,9610.0,18130.0,18928.0,21123.0,24046.0
+70906,Kanchanpur,Laljhadi Rural Municipality,Rural Municipality,Tarai,22569.0,25037.0,3640.0,4745.0,11086.0,12144.0,11483.0,12893.0
+70907,Kanchanpur,Punarbas Urban Municipality,Urban Municipality,Tarai,53633.0,61748.0,9909.0,13626.0,24907.0,28155.0,28726.0,33593.0
+70908,Kanchanpur,Belouri Urban Municipality,Urban Municipality,Tarai,53544.0,53910.0,8657.0,11151.0,25457.0,25375.0,28087.0,28535.0
+70909,Kanchanpur,Beldandi Rural Municipality,Rural Municipality,Tarai,21949.0,21888.0,3760.0,4701.0,10240.0,9859.0,11709.0,12029.0
