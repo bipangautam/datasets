@@ -1,7 +1,7 @@
 # datasets
 Here are some dataset I have scraped from various sources, cleaned, and compiled. This is continuously updating. Please do reach out to me for any details. 
 
-**Note:** For local elections scraping admin_ref.csv and parties_ref.csv is required for harmonizing data and for the .py script to work.
+**Note:** For local elections scraping **admin_ref.csv** and **parties_ref.csv** are required for harmonizing data and for the .py script to work.
 
 
 | Name                        | Dataset                      | Code / Script             | Remarks                                                                     |
